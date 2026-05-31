@@ -1,0 +1,11 @@
+orig.ident	n_spots	n_icaf_spots	n_other_spots	available_for_deg
+IU_PDA_T1	3530	54	3476	True
+IU_PDA_T10	2714	34	2680	True
+IU_PDA_T11	2777	2	2775	False
+IU_PDA_T12	3642	188	3454	True
+IU_PDA_T2	4118	38	4080	True
+IU_PDA_T3	4354	582	3772	True
+IU_PDA_T4	3621	4	3617	False
+IU_PDA_T6	3397	6	3391	True
+IU_PDA_T8	3779	10	3769	True
+IU_PDA_T9	3526	195	3331	True

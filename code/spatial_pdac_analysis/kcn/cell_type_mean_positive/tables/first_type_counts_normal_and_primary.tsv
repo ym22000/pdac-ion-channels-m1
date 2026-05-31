@@ -1,0 +1,20 @@
+Origin	first_type	n_spots	pct_spots
+Normal Pancreas	Normal Epithelial cells	9707	98.8492871690428
+Normal Pancreas	Hepatocytes	108	1.09979633401222
+Normal Pancreas	Tumor Epithelial cells	3	0.0305498981670061
+Normal Pancreas	C1Q-TAM	1	0.010183299389002
+Normal Pancreas	Endothelial cells	1	0.010183299389002
+Pancreas	myCAF	21770	61.39658187151
+Pancreas	Tumor Epithelial cells	8260	23.2951661120199
+Pancreas	Normal Epithelial cells	3002	8.46635456032489
+Pancreas	iCAF	1113	3.13892492526369
+Pancreas	B cells	474	1.33679282531446
+Pancreas	DCs	226	0.637373794348243
+Pancreas	SPP1-TAM	196	0.552766653505556
+Pancreas	PVL	143	0.403294038016809
+Pancreas	C1Q-TAM	102	0.287664278865136
+Pancreas	CD4+ cells	89	0.251001184499972
+Pancreas	FCN1-TAM	71	0.20023689999436
+Pancreas	CD8-NK cells	7	0.019741666196627
+Pancreas	Proliferative T cells	4	0.0112809521123583
+Pancreas	Endothelial cells	1	0.00282023802808957

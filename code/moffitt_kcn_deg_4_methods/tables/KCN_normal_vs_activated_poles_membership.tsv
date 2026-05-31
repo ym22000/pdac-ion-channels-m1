@@ -1,0 +1,26 @@
+gene	Normal_pole	Activated_pole	membership	normal_sources	activated_sources
+KCNA5	TRUE	FALSE	Normal_only	Test1_Normal; Test2_smPSC; Test3_smPSC; Test4_smPSC	NA
+KCNA7	TRUE	TRUE	Both	Test3_qPSC; Test4_qPSC	Test3_iCAF
+KCNAB1	TRUE	FALSE	Normal_only	Test1_Normal; Test2_smPSC; Test3_smPSC; Test4_smPSC	NA
+KCNAB2	FALSE	TRUE	Activated_only	NA	Test4_myCAF
+KCNB1	TRUE	FALSE	Normal_only	Test1_Normal	NA
+KCNC4	TRUE	TRUE	Both	Test1_Normal; Test2_smPSC; Test3_qPSC; Test3_smPSC; Test4_qPSC; Test4_smPSC	Test3_iCAF
+KCND2	FALSE	TRUE	Activated_only	NA	Test3_csCAF; Test3_myCAF; Test4_csCAF; Test4_myCAF
+KCND3	FALSE	TRUE	Activated_only	NA	Test1_Activated; Test3_csCAF; Test4_csCAF
+KCNE4	TRUE	FALSE	Normal_only	Test1_Normal; Test2_qPSC; Test3_qPSC; Test4_qPSC	NA
+KCNJ15	FALSE	TRUE	Activated_only	NA	Test3_myCAF
+KCNJ16	TRUE	FALSE	Normal_only	Test4_smPSC	NA
+KCNJ8	TRUE	TRUE	Both	Test2_qPSC; Test3_qPSC; Test4_qPSC	Test1_Activated
+KCNK1	FALSE	TRUE	Activated_only	NA	Test3_iCAF; Test3_myCAF; Test4_csCAF; Test4_iCAF; Test4_myCAF
+KCNK15	FALSE	TRUE	Activated_only	NA	Test3_csCAF; Test4_csCAF
+KCNK17	TRUE	FALSE	Normal_only	Test1_Normal; Test2_qPSC; Test3_qPSC; Test3_smPSC; Test4_qPSC; Test4_smPSC	NA
+KCNK3	TRUE	FALSE	Normal_only	Test3_smPSC; Test4_smPSC	NA
+KCNK6	TRUE	TRUE	Both	Test2_qPSC; Test3_qPSC; Test4_qPSC	Test1_Activated
+KCNMA1	TRUE	TRUE	Both	Test1_Normal; Test2_smPSC; Test3_smPSC; Test4_smPSC	Test2_myCAF; Test3_myCAF; Test4_myCAF
+KCNMB1	TRUE	TRUE	Both	Test2_smPSC; Test3_smPSC; Test4_smPSC	Test3_csCAF; Test3_myCAF; Test4_csCAF
+KCNMB4	FALSE	TRUE	Activated_only	NA	Test3_myCAF; Test4_myCAF
+KCNN3	FALSE	TRUE	Activated_only	NA	Test1_Activated; Test3_csCAF; Test3_myCAF; Test4_csCAF; Test4_myCAF
+KCNN4	FALSE	TRUE	Activated_only	NA	Test3_myCAF; Test4_myCAF
+KCNQ4	TRUE	FALSE	Normal_only	Test1_Normal; Test2_smPSC	NA
+KCNS3	TRUE	FALSE	Normal_only	Test1_Normal; Test3_qPSC; Test3_smPSC; Test4_qPSC; Test4_smPSC	NA
+KCNT2	TRUE	TRUE	Both	Test3_qPSC; Test4_qPSC	Test1_Activated; Test3_csCAF; Test4_csCAF

@@ -1,0 +1,7 @@
+metric	value
+n_spots	91496
+n_assays	8
+n_images_sections	30
+n_slide_names	11
+default_assay	rctd_fullfinal
+available_reductions	pca, umap, tsne, umap.ischia14, umap.ischia10, umap.ischia12, umap.ischia16, umap.ischia18

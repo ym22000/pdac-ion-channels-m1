@@ -1,0 +1,29 @@
+# Large local data objects
+data/*.rds
+code/**/inputs/*.rds
+code/**/rds/*.rds
+code/spatial_pdac_analysis/inputs/*
+!code/spatial_pdac_analysis/inputs/README.md
+
+# USER matrix inputs and other large local resources
+code/user_moffitt_validation/inputs/*
+!code/user_moffitt_validation/inputs/README.md
+
+# External raw literature and local exploratory bundles
+bibliographie/raw/
+code/spatial_pdac_analysis/communication/commot/
+code/spatial_pdac_analysis/communication/hotspot/all_kcns_normal_pancreas/exports_normal_pancreas/exports/
+
+# LaTeX build artifacts
+report_latex/*.aux
+report_latex/*.log
+report_latex/*.out
+report_latex/*.synctex.gz
+report_latex/*.toc
+report_latex/report_skeleton_render.pdf
+
+# Editor and session files
+*.Rhistory
+*.RData
+*.Rproj.user/
+Thumbs.db

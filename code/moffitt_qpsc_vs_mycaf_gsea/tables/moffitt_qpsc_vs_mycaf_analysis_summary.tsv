@@ -1,0 +1,2 @@
+comparison	n_paired_patients	min_cells_per_sample	qpsc_total_cells	mycaf_total_cells	n_genes_tested	n_significant_pathways
+qPSC_vs_myCAF	29	20	5386	4699	14602	19

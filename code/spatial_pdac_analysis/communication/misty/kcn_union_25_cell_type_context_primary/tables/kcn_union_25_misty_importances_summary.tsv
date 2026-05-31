@@ -1,0 +1,721 @@
+target_gene	view	Predictor	Predictor_original	Importance	nsamples
+KCNA5	intra	B_cells	B cells	1.30987447285329	7
+KCNA5	intra	Endothelial_cells	Endothelial cells	0.427244143468508	8
+KCNA5	intra	Fibroblasts	Fibroblasts	2.11331176844199	8
+KCNA5	intra	Hepatocytes	Hepatocytes	1.32696229441221e-05	2
+KCNA5	intra	Monocytes	Monocytes	0.427138351205371	8
+KCNA5	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.120735657437053	3
+KCNA5	intra	PVL	PVL	0.614287718290131	8
+KCNA5	intra	TAM	TAM	1.33993088575074	8
+KCNA5	intra	T_NK_cells	T-NK cells	0.0204780352456535	6
+KCNA5	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	1.58765811342626	8
+KCNA5	juxta_ct	B_cells	B cells	1.55942084785615	7
+KCNA5	juxta_ct	Endothelial_cells	Endothelial cells	0.729603958104869	8
+KCNA5	juxta_ct	Fibroblasts	Fibroblasts	2.03689223299125	8
+KCNA5	juxta_ct	Hepatocytes	Hepatocytes	0.000153819848504598	2
+KCNA5	juxta_ct	Monocytes	Monocytes	0.57362233635607	8
+KCNA5	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.179224404636754	3
+KCNA5	juxta_ct	PVL	PVL	0.641660729910441	8
+KCNA5	juxta_ct	TAM	TAM	1.70466193121449	8
+KCNA5	juxta_ct	T_NK_cells	T-NK cells	0.143225199386225	6
+KCNA5	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.76171246221212	8
+KCNA5	para_ct	B_cells	B cells	1.22967926282625	7
+KCNA5	para_ct	Endothelial_cells	Endothelial cells	1.32233211807482	8
+KCNA5	para_ct	Fibroblasts	Fibroblasts	1.11360766508689	8
+KCNA5	para_ct	Hepatocytes	Hepatocytes	0.881967671086844	2
+KCNA5	para_ct	Monocytes	Monocytes	1.17533491773559	8
+KCNA5	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	1.97499993365327	3
+KCNA5	para_ct	PVL	PVL	1.11483909359429	8
+KCNA5	para_ct	TAM	TAM	1.1344234419746	8
+KCNA5	para_ct	T_NK_cells	T-NK cells	1.26142104142011	6
+KCNA5	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.15662471861819	8
+KCNAB1	intra	B_cells	B cells	1.84504051270771	8
+KCNAB1	intra	Endothelial_cells	Endothelial cells	0.448573319974144	9
+KCNAB1	intra	Fibroblasts	Fibroblasts	3.73454935572966	9
+KCNAB1	intra	Hepatocytes	Hepatocytes	1.61800299540059e-05	4
+KCNAB1	intra	Monocytes	Monocytes	0.683713154493087	9
+KCNAB1	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.129423852578022	3
+KCNAB1	intra	PVL	PVL	0.624565202925536	9
+KCNAB1	intra	TAM	TAM	2.31946994205363	9
+KCNAB1	intra	T_NK_cells	T-NK cells	0.0477237459222077	6
+KCNAB1	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	2.57655708725676	9
+KCNAB1	juxta_ct	B_cells	B cells	2.30046927859126	8
+KCNAB1	juxta_ct	Endothelial_cells	Endothelial cells	0.993067181102739	9
+KCNAB1	juxta_ct	Fibroblasts	Fibroblasts	4.01773268311209	9
+KCNAB1	juxta_ct	Hepatocytes	Hepatocytes	0.000147407010162656	4
+KCNAB1	juxta_ct	Monocytes	Monocytes	1.12410656382367	9
+KCNAB1	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.168380894598306	3
+KCNAB1	juxta_ct	PVL	PVL	0.734104931807565	9
+KCNAB1	juxta_ct	TAM	TAM	3.35977670674767	9
+KCNAB1	juxta_ct	T_NK_cells	T-NK cells	0.308692947673023	6
+KCNAB1	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	3.3689633858946	9
+KCNAB1	para_ct	B_cells	B cells	2.38437801095739	8
+KCNAB1	para_ct	Endothelial_cells	Endothelial cells	2.25796155906744	9
+KCNAB1	para_ct	Fibroblasts	Fibroblasts	2.22430411994526	9
+KCNAB1	para_ct	Hepatocytes	Hepatocytes	0.715759172218222	4
+KCNAB1	para_ct	Monocytes	Monocytes	2.13806865173031	9
+KCNAB1	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	4.67067109001264	3
+KCNAB1	para_ct	PVL	PVL	2.49394787592407	9
+KCNAB1	para_ct	TAM	TAM	2.40767674909642	9
+KCNAB1	para_ct	T_NK_cells	T-NK cells	2.45954670993719	6
+KCNAB1	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	2.45201094371111	9
+KCNAB2	intra	B_cells	B cells	11.9616785823644	9
+KCNAB2	intra	Endothelial_cells	Endothelial cells	2.28884412261696	10
+KCNAB2	intra	Fibroblasts	Fibroblasts	20.229281229457	10
+KCNAB2	intra	Hepatocytes	Hepatocytes	0.00125103045006296	4
+KCNAB2	intra	Monocytes	Monocytes	4.45954253810175	10
+KCNAB2	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.222781849946382	3
+KCNAB2	intra	PVL	PVL	1.1044130349482	10
+KCNAB2	intra	TAM	TAM	16.5234670618385	10
+KCNAB2	intra	T_NK_cells	T-NK cells	1.13773751630666	7
+KCNAB2	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	14.6527011866878	10
+KCNAB2	juxta_ct	B_cells	B cells	18.7973073917249	9
+KCNAB2	juxta_ct	Endothelial_cells	Endothelial cells	5.40535558512859	10
+KCNAB2	juxta_ct	Fibroblasts	Fibroblasts	27.5070083576487	10
+KCNAB2	juxta_ct	Hepatocytes	Hepatocytes	0.0575483763888097	4
+KCNAB2	juxta_ct	Monocytes	Monocytes	11.9685715653343	10
+KCNAB2	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.301092239065319	3
+KCNAB2	juxta_ct	PVL	PVL	2.75290084641061	10
+KCNAB2	juxta_ct	TAM	TAM	25.7400704146926	10
+KCNAB2	juxta_ct	T_NK_cells	T-NK cells	3.32404740824965	7
+KCNAB2	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	23.4156238715774	10
+KCNAB2	para_ct	B_cells	B cells	19.2114046387927	9
+KCNAB2	para_ct	Endothelial_cells	Endothelial cells	19.0905213189556	10
+KCNAB2	para_ct	Fibroblasts	Fibroblasts	18.8888598419585	10
+KCNAB2	para_ct	Hepatocytes	Hepatocytes	9.49354417375165	4
+KCNAB2	para_ct	Monocytes	Monocytes	18.7750344128638	10
+KCNAB2	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	28.3179282916869	3
+KCNAB2	para_ct	PVL	PVL	19.2878469798769	10
+KCNAB2	para_ct	TAM	TAM	19.7009350200321	10
+KCNAB2	para_ct	T_NK_cells	T-NK cells	20.88365205484	7
+KCNAB2	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	19.4936254240914	10
+KCNB1	intra	B_cells	B cells	0.831185580449101	7
+KCNB1	intra	Endothelial_cells	Endothelial cells	0.378757324106204	7
+KCNB1	intra	Fibroblasts	Fibroblasts	1.78026035621548	7
+KCNB1	intra	Hepatocytes	Hepatocytes	7.802750879729e-06	2
+KCNB1	intra	Monocytes	Monocytes	0.227433702998319	7
+KCNB1	intra	Normal_Epithelial_cells	Normal Epithelial cells	9.24704743525353e-05	2
+KCNB1	intra	PVL	PVL	0.197077443255744	7
+KCNB1	intra	TAM	TAM	1.09965919976641	7
+KCNB1	intra	T_NK_cells	T-NK cells	0.000777406118336826	6
+KCNB1	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	1.28534818307621	7
+KCNB1	juxta_ct	B_cells	B cells	0.845922420892464	7
+KCNB1	juxta_ct	Endothelial_cells	Endothelial cells	0.531189407779046	7
+KCNB1	juxta_ct	Fibroblasts	Fibroblasts	1.94161269581187	7
+KCNB1	juxta_ct	Hepatocytes	Hepatocytes	1.11405189072905e-05	2
+KCNB1	juxta_ct	Monocytes	Monocytes	0.672804874524233	7
+KCNB1	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.140258059973095	2
+KCNB1	juxta_ct	PVL	PVL	0.368976129895401	7
+KCNB1	juxta_ct	TAM	TAM	1.46024244998187	7
+KCNB1	juxta_ct	T_NK_cells	T-NK cells	0.113911712564561	6
+KCNB1	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.62178167921001	7
+KCNB1	para_ct	B_cells	B cells	1.01037461677387	7
+KCNB1	para_ct	Endothelial_cells	Endothelial cells	1.11716812726766	7
+KCNB1	para_ct	Fibroblasts	Fibroblasts	1.25055506021121	7
+KCNB1	para_ct	Hepatocytes	Hepatocytes	0.449218315331995	2
+KCNB1	para_ct	Monocytes	Monocytes	1.14904419057242	7
+KCNB1	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	1.25406663760235	2
+KCNB1	para_ct	PVL	PVL	1.19560971590526	7
+KCNB1	para_ct	TAM	TAM	1.16041181248307	7
+KCNB1	para_ct	T_NK_cells	T-NK cells	0.682139883353014	6
+KCNB1	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.17614447881572	7
+KCNC4	intra	B_cells	B cells	5.40568000106787	9
+KCNC4	intra	Endothelial_cells	Endothelial cells	0.961889798504613	10
+KCNC4	intra	Fibroblasts	Fibroblasts	10.9868908705872	10
+KCNC4	intra	Hepatocytes	Hepatocytes	0.117342277982847	4
+KCNC4	intra	Monocytes	Monocytes	1.97300238752846	10
+KCNC4	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.318688770417859	3
+KCNC4	intra	PVL	PVL	0.587606313991208	10
+KCNC4	intra	TAM	TAM	7.09299261891155	10
+KCNC4	intra	T_NK_cells	T-NK cells	0.367049050891007	7
+KCNC4	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	9.21971797717629	10
+KCNC4	juxta_ct	B_cells	B cells	8.59052647577376	9
+KCNC4	juxta_ct	Endothelial_cells	Endothelial cells	2.26178689313723	10
+KCNC4	juxta_ct	Fibroblasts	Fibroblasts	14.8787696000505	10
+KCNC4	juxta_ct	Hepatocytes	Hepatocytes	0.00825366424029601	4
+KCNC4	juxta_ct	Monocytes	Monocytes	4.49007058064337	10
+KCNC4	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.625783226189864	3
+KCNC4	juxta_ct	PVL	PVL	1.11212372245633	10
+KCNC4	juxta_ct	TAM	TAM	11.7917746052478	10
+KCNC4	juxta_ct	T_NK_cells	T-NK cells	0.812696472166174	7
+KCNC4	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	13.9988529241831	10
+KCNC4	para_ct	B_cells	B cells	9.26599525652949	9
+KCNC4	para_ct	Endothelial_cells	Endothelial cells	11.8124134698868	10
+KCNC4	para_ct	Fibroblasts	Fibroblasts	12.0577228438671	10
+KCNC4	para_ct	Hepatocytes	Hepatocytes	7.57549765954973	4
+KCNC4	para_ct	Monocytes	Monocytes	12.013108752366	10
+KCNC4	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	22.1619176318222	3
+KCNC4	para_ct	PVL	PVL	11.6428764445852	10
+KCNC4	para_ct	TAM	TAM	11.9572290852938	10
+KCNC4	para_ct	T_NK_cells	T-NK cells	8.96575855772148	7
+KCNC4	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	12.9224327842564	10
+KCND2	intra	B_cells	B cells	4.5493556719108	9
+KCND2	intra	Endothelial_cells	Endothelial cells	0.72931845959767	10
+KCND2	intra	Fibroblasts	Fibroblasts	7.93401673267474	10
+KCND2	intra	Hepatocytes	Hepatocytes	0.000657762181301981	4
+KCND2	intra	Monocytes	Monocytes	1.3246843237435	10
+KCND2	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.0421644923932031	3
+KCND2	intra	PVL	PVL	0.120429294533263	10
+KCND2	intra	TAM	TAM	5.91666016204781	10
+KCND2	intra	T_NK_cells	T-NK cells	0.154306557094879	7
+KCND2	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	6.22001738617502	10
+KCND2	juxta_ct	B_cells	B cells	6.3099990429368	9
+KCND2	juxta_ct	Endothelial_cells	Endothelial cells	1.8482680796641	10
+KCND2	juxta_ct	Fibroblasts	Fibroblasts	10.1477270649997	10
+KCND2	juxta_ct	Hepatocytes	Hepatocytes	0.0830034649521203	4
+KCND2	juxta_ct	Monocytes	Monocytes	2.93356496598763	10
+KCND2	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.146312295499412	3
+KCND2	juxta_ct	PVL	PVL	0.551039860087436	10
+KCND2	juxta_ct	TAM	TAM	8.78893803842304	10
+KCND2	juxta_ct	T_NK_cells	T-NK cells	0.541301323483052	7
+KCND2	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	9.04778980922544	10
+KCND2	para_ct	B_cells	B cells	5.96990718502936	9
+KCND2	para_ct	Endothelial_cells	Endothelial cells	6.65214046653456	10
+KCND2	para_ct	Fibroblasts	Fibroblasts	7.19657034331025	10
+KCND2	para_ct	Hepatocytes	Hepatocytes	3.49272181160032	4
+KCND2	para_ct	Monocytes	Monocytes	7.21465133441869	10
+KCND2	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	15.2901782846615	3
+KCND2	para_ct	PVL	PVL	6.7374016003193	10
+KCND2	para_ct	TAM	TAM	7.02251403329723	10
+KCND2	para_ct	T_NK_cells	T-NK cells	6.38818808328677	7
+KCND2	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	7.08124760829002	10
+KCND3	intra	B_cells	B cells	5.8509333173338	9
+KCND3	intra	Endothelial_cells	Endothelial cells	1.5793686101657	10
+KCND3	intra	Fibroblasts	Fibroblasts	9.62971285850219	10
+KCND3	intra	Hepatocytes	Hepatocytes	0.000307650516918923	4
+KCND3	intra	Monocytes	Monocytes	2.41952453809857	10
+KCND3	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.339338105114008	3
+KCND3	intra	PVL	PVL	0.871533257879981	10
+KCND3	intra	TAM	TAM	6.1500827458992	10
+KCND3	intra	T_NK_cells	T-NK cells	0.651638419435749	7
+KCND3	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	6.50972220680559	10
+KCND3	juxta_ct	B_cells	B cells	8.10650427221722	9
+KCND3	juxta_ct	Endothelial_cells	Endothelial cells	3.34203278530393	10
+KCND3	juxta_ct	Fibroblasts	Fibroblasts	12.1933821431669	10
+KCND3	juxta_ct	Hepatocytes	Hepatocytes	0.0353223292294223	4
+KCND3	juxta_ct	Monocytes	Monocytes	6.00842989567728	10
+KCND3	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.621158003854938	3
+KCND3	juxta_ct	PVL	PVL	1.80913066577828	10
+KCND3	juxta_ct	TAM	TAM	10.1836896430749	10
+KCND3	juxta_ct	T_NK_cells	T-NK cells	1.52464936266789	7
+KCND3	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	9.97364462452721	10
+KCND3	para_ct	B_cells	B cells	8.41460247440578	9
+KCND3	para_ct	Endothelial_cells	Endothelial cells	8.38205038467605	10
+KCND3	para_ct	Fibroblasts	Fibroblasts	7.97061087978653	10
+KCND3	para_ct	Hepatocytes	Hepatocytes	3.04536898681084	4
+KCND3	para_ct	Monocytes	Monocytes	8.36335750580312	10
+KCND3	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	12.5228115519012	3
+KCND3	para_ct	PVL	PVL	8.14141048265089	10
+KCND3	para_ct	TAM	TAM	8.0781418435342	10
+KCND3	para_ct	T_NK_cells	T-NK cells	9.42666773622681	7
+KCND3	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	8.86313784028345	10
+KCNE4	intra	B_cells	B cells	10.0916946963528	9
+KCNE4	intra	Endothelial_cells	Endothelial cells	1.96562684452144	10
+KCNE4	intra	Fibroblasts	Fibroblasts	17.8447547663509	10
+KCNE4	intra	Hepatocytes	Hepatocytes	0.00586541894859919	4
+KCNE4	intra	Monocytes	Monocytes	3.45012345434593	10
+KCNE4	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.0742866224350085	3
+KCNE4	intra	PVL	PVL	0.878093846254565	10
+KCNE4	intra	TAM	TAM	12.2455095798779	10
+KCNE4	intra	T_NK_cells	T-NK cells	0.583925297967753	7
+KCNE4	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	12.6330075092976	10
+KCNE4	juxta_ct	B_cells	B cells	15.3211101277139	9
+KCNE4	juxta_ct	Endothelial_cells	Endothelial cells	4.78523450592587	10
+KCNE4	juxta_ct	Fibroblasts	Fibroblasts	24.1034508400436	10
+KCNE4	juxta_ct	Hepatocytes	Hepatocytes	0.0504602593134907	4
+KCNE4	juxta_ct	Monocytes	Monocytes	9.77375168576114	10
+KCNE4	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.179574822414025	3
+KCNE4	juxta_ct	PVL	PVL	2.38733455588344	10
+KCNE4	juxta_ct	TAM	TAM	21.1916016552242	10
+KCNE4	juxta_ct	T_NK_cells	T-NK cells	2.0586576388685	7
+KCNE4	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	20.3450913494827	10
+KCNE4	para_ct	B_cells	B cells	15.3328648596681	9
+KCNE4	para_ct	Endothelial_cells	Endothelial cells	16.8561697913725	10
+KCNE4	para_ct	Fibroblasts	Fibroblasts	16.8121445033985	10
+KCNE4	para_ct	Hepatocytes	Hepatocytes	8.37783822530779	4
+KCNE4	para_ct	Monocytes	Monocytes	16.5603631966919	10
+KCNE4	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	27.4320953076129	3
+KCNE4	para_ct	PVL	PVL	16.306186469546	10
+KCNE4	para_ct	TAM	TAM	16.2747635880741	10
+KCNE4	para_ct	T_NK_cells	T-NK cells	16.956619402748	7
+KCNE4	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	16.699091200969	10
+KCNJ15	intra	B_cells	B cells	7.64199261358387	9
+KCNJ15	intra	Endothelial_cells	Endothelial cells	0.755911927968976	10
+KCNJ15	intra	Fibroblasts	Fibroblasts	13.8362898165083	10
+KCNJ15	intra	Hepatocytes	Hepatocytes	0.184936445655596	4
+KCNJ15	intra	Monocytes	Monocytes	1.91737789945852	10
+KCNJ15	intra	Normal_Epithelial_cells	Normal Epithelial cells	1.54088461703019	3
+KCNJ15	intra	PVL	PVL	0.349423660315865	10
+KCNJ15	intra	TAM	TAM	9.15751343642725	10
+KCNJ15	intra	T_NK_cells	T-NK cells	0.255406901820939	7
+KCNJ15	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	14.6826397574993	10
+KCNJ15	juxta_ct	B_cells	B cells	12.1692526361667	9
+KCNJ15	juxta_ct	Endothelial_cells	Endothelial cells	2.61889032860141	10
+KCNJ15	juxta_ct	Fibroblasts	Fibroblasts	17.5490639988325	10
+KCNJ15	juxta_ct	Hepatocytes	Hepatocytes	0.0111635934808886	4
+KCNJ15	juxta_ct	Monocytes	Monocytes	5.92251560859402	10
+KCNJ15	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	2.99103730830419	3
+KCNJ15	juxta_ct	PVL	PVL	0.716882704939088	10
+KCNJ15	juxta_ct	TAM	TAM	14.760499039142	10
+KCNJ15	juxta_ct	T_NK_cells	T-NK cells	0.919013912453233	7
+KCNJ15	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	19.8618537592381	10
+KCNJ15	para_ct	B_cells	B cells	12.5877263349904	9
+KCNJ15	para_ct	Endothelial_cells	Endothelial cells	12.7711451447619	10
+KCNJ15	para_ct	Fibroblasts	Fibroblasts	13.1251995107778	10
+KCNJ15	para_ct	Hepatocytes	Hepatocytes	7.84803067451863	4
+KCNJ15	para_ct	Monocytes	Monocytes	12.6373391100005	10
+KCNJ15	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	30.0801342109641	3
+KCNJ15	para_ct	PVL	PVL	13.414171211333	10
+KCNJ15	para_ct	TAM	TAM	13.2963780402623	10
+KCNJ15	para_ct	T_NK_cells	T-NK cells	14.0642452812465	7
+KCNJ15	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	14.6424755803049	10
+KCNJ16	intra	B_cells	B cells	0.848061197295167	9
+KCNJ16	intra	Endothelial_cells	Endothelial cells	0.0700585605641751	10
+KCNJ16	intra	Fibroblasts	Fibroblasts	2.08705284992758	10
+KCNJ16	intra	Hepatocytes	Hepatocytes	0.000404451053375047	4
+KCNJ16	intra	Monocytes	Monocytes	0.188534692150344	10
+KCNJ16	intra	Normal_Epithelial_cells	Normal Epithelial cells	2.43346061048652	3
+KCNJ16	intra	PVL	PVL	0.000525081160411318	10
+KCNJ16	intra	TAM	TAM	1.12579265932793	10
+KCNJ16	intra	T_NK_cells	T-NK cells	0.0220701756942864	7
+KCNJ16	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	1.80078868659798	10
+KCNJ16	juxta_ct	B_cells	B cells	1.47130194684332	9
+KCNJ16	juxta_ct	Endothelial_cells	Endothelial cells	0.159150663757952	10
+KCNJ16	juxta_ct	Fibroblasts	Fibroblasts	2.58239660668432	10
+KCNJ16	juxta_ct	Hepatocytes	Hepatocytes	0.000486032477231199	4
+KCNJ16	juxta_ct	Monocytes	Monocytes	0.29972110307888	10
+KCNJ16	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	3.46247397625605	3
+KCNJ16	juxta_ct	PVL	PVL	0.0409515754910192	10
+KCNJ16	juxta_ct	TAM	TAM	1.99788473893686	10
+KCNJ16	juxta_ct	T_NK_cells	T-NK cells	0.0361355501276779	7
+KCNJ16	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	2.31396695602405	10
+KCNJ16	para_ct	B_cells	B cells	1.38845740732441	9
+KCNJ16	para_ct	Endothelial_cells	Endothelial cells	1.98427391029397	10
+KCNJ16	para_ct	Fibroblasts	Fibroblasts	2.08048400074606	10
+KCNJ16	para_ct	Hepatocytes	Hepatocytes	2.55525922616729	4
+KCNJ16	para_ct	Monocytes	Monocytes	1.92001883747387	10
+KCNJ16	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	5.22137227697794	3
+KCNJ16	para_ct	PVL	PVL	2.25589775331478	10
+KCNJ16	para_ct	TAM	TAM	2.10204521526457	10
+KCNJ16	para_ct	T_NK_cells	T-NK cells	0.904520251750275	7
+KCNJ16	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	2.31258489652368	10
+KCNJ8	intra	B_cells	B cells	9.15242773153256	9
+KCNJ8	intra	Endothelial_cells	Endothelial cells	2.98407277024616	10
+KCNJ8	intra	Fibroblasts	Fibroblasts	16.1344156910444	10
+KCNJ8	intra	Hepatocytes	Hepatocytes	0.00163329129030204	4
+KCNJ8	intra	Monocytes	Monocytes	3.76168056643237	10
+KCNJ8	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.614573264501292	3
+KCNJ8	intra	PVL	PVL	1.36846659476352	10
+KCNJ8	intra	TAM	TAM	10.5793976077948	10
+KCNJ8	intra	T_NK_cells	T-NK cells	0.756800365188133	7
+KCNJ8	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	11.6068668604653	10
+KCNJ8	juxta_ct	B_cells	B cells	14.0373285118344	9
+KCNJ8	juxta_ct	Endothelial_cells	Endothelial cells	5.96772701981907	10
+KCNJ8	juxta_ct	Fibroblasts	Fibroblasts	21.9274105360946	10
+KCNJ8	juxta_ct	Hepatocytes	Hepatocytes	0.00828197107699507	4
+KCNJ8	juxta_ct	Monocytes	Monocytes	9.05324935609642	10
+KCNJ8	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.845238458424984	3
+KCNJ8	juxta_ct	PVL	PVL	2.50859824966832	10
+KCNJ8	juxta_ct	TAM	TAM	18.6425290478426	10
+KCNJ8	juxta_ct	T_NK_cells	T-NK cells	2.05327923405982	7
+KCNJ8	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	18.5961945576202	10
+KCNJ8	para_ct	B_cells	B cells	14.4962234254362	9
+KCNJ8	para_ct	Endothelial_cells	Endothelial cells	16.0148050788145	10
+KCNJ8	para_ct	Fibroblasts	Fibroblasts	16.6266306115178	10
+KCNJ8	para_ct	Hepatocytes	Hepatocytes	8.06201615658208	4
+KCNJ8	para_ct	Monocytes	Monocytes	16.6114447763671	10
+KCNJ8	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	27.5604711293606	3
+KCNJ8	para_ct	PVL	PVL	16.2650448951088	10
+KCNJ8	para_ct	TAM	TAM	16.2310757304106	10
+KCNJ8	para_ct	T_NK_cells	T-NK cells	15.5683767384584	7
+KCNJ8	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	17.0365050644864	10
+KCNK1	intra	B_cells	B cells	10.9578890381848	9
+KCNK1	intra	Endothelial_cells	Endothelial cells	1.13192309323696	10
+KCNK1	intra	Fibroblasts	Fibroblasts	27.5276689004146	10
+KCNK1	intra	Hepatocytes	Hepatocytes	0.0139675614646205	4
+KCNK1	intra	Monocytes	Monocytes	4.17279954846874	10
+KCNK1	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.36165362859801	3
+KCNK1	intra	PVL	PVL	0.918940033800735	10
+KCNK1	intra	TAM	TAM	14.4353080158496	10
+KCNK1	intra	T_NK_cells	T-NK cells	0.584155177688582	7
+KCNK1	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	26.0901568027299	10
+KCNK1	juxta_ct	B_cells	B cells	18.1377480443649	9
+KCNK1	juxta_ct	Endothelial_cells	Endothelial cells	3.54442304195278	10
+KCNK1	juxta_ct	Fibroblasts	Fibroblasts	38.2663301025584	10
+KCNK1	juxta_ct	Hepatocytes	Hepatocytes	0.238166649236636	4
+KCNK1	juxta_ct	Monocytes	Monocytes	11.376915688356	10
+KCNK1	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.903929629536369	3
+KCNK1	juxta_ct	PVL	PVL	2.16599554535283	10
+KCNK1	juxta_ct	TAM	TAM	28.7128310019302	10
+KCNK1	juxta_ct	T_NK_cells	T-NK cells	1.99976038993998	7
+KCNK1	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	37.9932957638335	10
+KCNK1	para_ct	B_cells	B cells	24.9891244058891	9
+KCNK1	para_ct	Endothelial_cells	Endothelial cells	31.1187756823591	10
+KCNK1	para_ct	Fibroblasts	Fibroblasts	32.5728454425632	10
+KCNK1	para_ct	Hepatocytes	Hepatocytes	23.872233442288	4
+KCNK1	para_ct	Monocytes	Monocytes	32.179451180444	10
+KCNK1	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	54.316854981987	3
+KCNK1	para_ct	PVL	PVL	30.8466478084488	10
+KCNK1	para_ct	TAM	TAM	33.1283651496219	10
+KCNK1	para_ct	T_NK_cells	T-NK cells	22.7551708523984	7
+KCNK1	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	35.2438489746463	10
+KCNK15	intra	B_cells	B cells	0.928941241321905	9
+KCNK15	intra	Endothelial_cells	Endothelial cells	0.137116839449694	10
+KCNK15	intra	Fibroblasts	Fibroblasts	1.95384045822848	10
+KCNK15	intra	Hepatocytes	Hepatocytes	5.91290914134626e-06	4
+KCNK15	intra	Monocytes	Monocytes	0.434954280003673	10
+KCNK15	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.256139264768363	3
+KCNK15	intra	PVL	PVL	0.111072729428566	10
+KCNK15	intra	TAM	TAM	0.971638940476655	10
+KCNK15	intra	T_NK_cells	T-NK cells	0.0939047404913647	7
+KCNK15	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	1.46541895580706	10
+KCNK15	juxta_ct	B_cells	B cells	1.18755423626936	9
+KCNK15	juxta_ct	Endothelial_cells	Endothelial cells	0.212161690904303	10
+KCNK15	juxta_ct	Fibroblasts	Fibroblasts	2.23996269897555	10
+KCNK15	juxta_ct	Hepatocytes	Hepatocytes	1.82575732405259e-05	4
+KCNK15	juxta_ct	Monocytes	Monocytes	0.704469933408916	10
+KCNK15	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.0885612136566412	3
+KCNK15	juxta_ct	PVL	PVL	0.186096894610276	10
+KCNK15	juxta_ct	TAM	TAM	1.5761875846035	10
+KCNK15	juxta_ct	T_NK_cells	T-NK cells	0.233241497185241	7
+KCNK15	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.85460162398086	10
+KCNK15	para_ct	B_cells	B cells	1.22712586132178	9
+KCNK15	para_ct	Endothelial_cells	Endothelial cells	1.29104941100813	10
+KCNK15	para_ct	Fibroblasts	Fibroblasts	1.42888669108459	10
+KCNK15	para_ct	Hepatocytes	Hepatocytes	0.475473076022195	4
+KCNK15	para_ct	Monocytes	Monocytes	1.27835130862199	10
+KCNK15	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	1.7653953283293	3
+KCNK15	para_ct	PVL	PVL	1.41938694772468	10
+KCNK15	para_ct	TAM	TAM	1.39697488958477	10
+KCNK15	para_ct	T_NK_cells	T-NK cells	1.180566184819	7
+KCNK15	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.38322326848158	10
+KCNK17	intra	B_cells	B cells	4.80588170464479	9
+KCNK17	intra	Endothelial_cells	Endothelial cells	0.986641187458218	10
+KCNK17	intra	Fibroblasts	Fibroblasts	5.68439355390559	10
+KCNK17	intra	Hepatocytes	Hepatocytes	0.000188180369844947	4
+KCNK17	intra	Monocytes	Monocytes	0.985466033133379	10
+KCNK17	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.499935786317048	3
+KCNK17	intra	PVL	PVL	0.481912481724185	10
+KCNK17	intra	TAM	TAM	3.97099401379411	10
+KCNK17	intra	T_NK_cells	T-NK cells	0.152053868243098	7
+KCNK17	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	4.00216095137013	10
+KCNK17	juxta_ct	B_cells	B cells	6.04614013574184	9
+KCNK17	juxta_ct	Endothelial_cells	Endothelial cells	1.92997246138899	10
+KCNK17	juxta_ct	Fibroblasts	Fibroblasts	5.99655243942296	10
+KCNK17	juxta_ct	Hepatocytes	Hepatocytes	0.00268417804944557	4
+KCNK17	juxta_ct	Monocytes	Monocytes	2.06919182428586	10
+KCNK17	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.423546472406243	3
+KCNK17	juxta_ct	PVL	PVL	0.856816666509633	10
+KCNK17	juxta_ct	TAM	TAM	5.36580040737531	10
+KCNK17	juxta_ct	T_NK_cells	T-NK cells	0.390862275561133	7
+KCNK17	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	5.48934341710622	10
+KCNK17	para_ct	B_cells	B cells	4.35290796304374	9
+KCNK17	para_ct	Endothelial_cells	Endothelial cells	3.61067210481374	10
+KCNK17	para_ct	Fibroblasts	Fibroblasts	3.78764388886071	10
+KCNK17	para_ct	Hepatocytes	Hepatocytes	2.40058642969144	4
+KCNK17	para_ct	Monocytes	Monocytes	3.67124837793731	10
+KCNK17	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	9.36125400200742	3
+KCNK17	para_ct	PVL	PVL	3.67143891896328	10
+KCNK17	para_ct	TAM	TAM	3.73184589455592	10
+KCNK17	para_ct	T_NK_cells	T-NK cells	4.72508258010328	7
+KCNK17	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	4.03877571584624	10
+KCNK3	intra	B_cells	B cells	7.04140133066222	9
+KCNK3	intra	Endothelial_cells	Endothelial cells	3.2683857901659	10
+KCNK3	intra	Fibroblasts	Fibroblasts	9.68081303219897	10
+KCNK3	intra	Hepatocytes	Hepatocytes	0.000285677357627464	4
+KCNK3	intra	Monocytes	Monocytes	2.12048811683559	10
+KCNK3	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.694650448183492	3
+KCNK3	intra	PVL	PVL	2.76949574509543	10
+KCNK3	intra	TAM	TAM	13.6113558369772	10
+KCNK3	intra	T_NK_cells	T-NK cells	0.194621186164819	7
+KCNK3	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	6.47373926358566	10
+KCNK3	juxta_ct	B_cells	B cells	10.6800470232841	9
+KCNK3	juxta_ct	Endothelial_cells	Endothelial cells	8.87660263220415	10
+KCNK3	juxta_ct	Fibroblasts	Fibroblasts	9.40811893790667	10
+KCNK3	juxta_ct	Hepatocytes	Hepatocytes	0.000918850338869897	4
+KCNK3	juxta_ct	Monocytes	Monocytes	4.95362150669405	10
+KCNK3	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.731100837815397	3
+KCNK3	juxta_ct	PVL	PVL	4.88842170460403	10
+KCNK3	juxta_ct	TAM	TAM	17.8231819239103	10
+KCNK3	juxta_ct	T_NK_cells	T-NK cells	1.17777451374974	7
+KCNK3	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	11.303653973681	10
+KCNK3	para_ct	B_cells	B cells	9.89957480276944	9
+KCNK3	para_ct	Endothelial_cells	Endothelial cells	17.4092681612879	10
+KCNK3	para_ct	Fibroblasts	Fibroblasts	6.69420003248017	10
+KCNK3	para_ct	Hepatocytes	Hepatocytes	2.22178788677632	4
+KCNK3	para_ct	Monocytes	Monocytes	7.38194819487164	10
+KCNK3	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	7.71282340292069	3
+KCNK3	para_ct	PVL	PVL	9.32725090461382	10
+KCNK3	para_ct	TAM	TAM	11.9887345546225	10
+KCNK3	para_ct	T_NK_cells	T-NK cells	8.43760450534927	7
+KCNK3	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	8.88941603601785	10
+KCNK6	intra	B_cells	B cells	9.57817485745609	9
+KCNK6	intra	Endothelial_cells	Endothelial cells	1.47505275053168	10
+KCNK6	intra	Fibroblasts	Fibroblasts	19.1452087824945	10
+KCNK6	intra	Hepatocytes	Hepatocytes	0.00725256095252997	4
+KCNK6	intra	Monocytes	Monocytes	3.53891770003046	10
+KCNK6	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.0346064741475573	3
+KCNK6	intra	PVL	PVL	1.00972168706774	10
+KCNK6	intra	TAM	TAM	12.1275523992393	10
+KCNK6	intra	T_NK_cells	T-NK cells	0.822403990206866	7
+KCNK6	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	15.2054567999904	10
+KCNK6	juxta_ct	B_cells	B cells	15.4037909048161	9
+KCNK6	juxta_ct	Endothelial_cells	Endothelial cells	3.99629501311818	10
+KCNK6	juxta_ct	Fibroblasts	Fibroblasts	25.9614591456704	10
+KCNK6	juxta_ct	Hepatocytes	Hepatocytes	0.0973079380600078	4
+KCNK6	juxta_ct	Monocytes	Monocytes	10.0492202396494	10
+KCNK6	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.303997836401189	3
+KCNK6	juxta_ct	PVL	PVL	2.2665600297006	10
+KCNK6	juxta_ct	TAM	TAM	21.7068451498858	10
+KCNK6	juxta_ct	T_NK_cells	T-NK cells	1.90403893098048	7
+KCNK6	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	24.6946240156624	10
+KCNK6	para_ct	B_cells	B cells	17.7683728890887	9
+KCNK6	para_ct	Endothelial_cells	Endothelial cells	18.4166055581264	10
+KCNK6	para_ct	Fibroblasts	Fibroblasts	18.4454577924193	10
+KCNK6	para_ct	Hepatocytes	Hepatocytes	12.4250788625676	4
+KCNK6	para_ct	Monocytes	Monocytes	18.3934629760016	10
+KCNK6	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	29.0839415971794	3
+KCNK6	para_ct	PVL	PVL	18.4457741755846	10
+KCNK6	para_ct	TAM	TAM	18.8515367452851	10
+KCNK6	para_ct	T_NK_cells	T-NK cells	18.6653072603048	7
+KCNK6	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	19.8119757240678	10
+KCNMA1	intra	B_cells	B cells	15.9651946906986	9
+KCNMA1	intra	Endothelial_cells	Endothelial cells	3.05152034288079	10
+KCNMA1	intra	Fibroblasts	Fibroblasts	32.133558841042	10
+KCNMA1	intra	Hepatocytes	Hepatocytes	0.00906427006854694	4
+KCNMA1	intra	Monocytes	Monocytes	7.11494856406129	10
+KCNMA1	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.303958901182888	3
+KCNMA1	intra	PVL	PVL	5.57769741277011	10
+KCNMA1	intra	TAM	TAM	22.3230084516585	10
+KCNMA1	intra	T_NK_cells	T-NK cells	1.20324399685217	7
+KCNMA1	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	22.8307456432272	10
+KCNMA1	juxta_ct	B_cells	B cells	24.8351279984239	9
+KCNMA1	juxta_ct	Endothelial_cells	Endothelial cells	9.60199623487132	10
+KCNMA1	juxta_ct	Fibroblasts	Fibroblasts	44.8622758225202	10
+KCNMA1	juxta_ct	Hepatocytes	Hepatocytes	0.223295880742119	4
+KCNMA1	juxta_ct	Monocytes	Monocytes	18.8108970681052	10
+KCNMA1	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	1.241502038004	3
+KCNMA1	juxta_ct	PVL	PVL	9.6533754988138	10
+KCNMA1	juxta_ct	TAM	TAM	38.4641233167005	10
+KCNMA1	juxta_ct	T_NK_cells	T-NK cells	4.11855334676954	7
+KCNMA1	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	37.830515858784	10
+KCNMA1	para_ct	B_cells	B cells	34.7387499353166	9
+KCNMA1	para_ct	Endothelial_cells	Endothelial cells	32.2474837321067	10
+KCNMA1	para_ct	Fibroblasts	Fibroblasts	33.5500028832555	10
+KCNMA1	para_ct	Hepatocytes	Hepatocytes	13.453778097368	4
+KCNMA1	para_ct	Monocytes	Monocytes	32.2678729515149	10
+KCNMA1	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	37.9693933540798	3
+KCNMA1	para_ct	PVL	PVL	33.459948850014	10
+KCNMA1	para_ct	TAM	TAM	33.7236229556165	10
+KCNMA1	para_ct	T_NK_cells	T-NK cells	31.7013191412673	7
+KCNMA1	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	33.3858297218351	10
+KCNMB1	intra	B_cells	B cells	7.02210143652335	9
+KCNMB1	intra	Endothelial_cells	Endothelial cells	1.45294922886193	10
+KCNMB1	intra	Fibroblasts	Fibroblasts	14.2854700851507	10
+KCNMB1	intra	Hepatocytes	Hepatocytes	0.000535755405209875	4
+KCNMB1	intra	Monocytes	Monocytes	3.24124344295862	10
+KCNMB1	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.00718896304885032	3
+KCNMB1	intra	PVL	PVL	4.76462881827362	10
+KCNMB1	intra	TAM	TAM	9.32553128459025	10
+KCNMB1	intra	T_NK_cells	T-NK cells	0.708529290550507	7
+KCNMB1	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	10.5702484880186	10
+KCNMB1	juxta_ct	B_cells	B cells	10.5364401446869	9
+KCNMB1	juxta_ct	Endothelial_cells	Endothelial cells	4.53196889754174	10
+KCNMB1	juxta_ct	Fibroblasts	Fibroblasts	18.9911288936836	10
+KCNMB1	juxta_ct	Hepatocytes	Hepatocytes	0.0399034139787042	4
+KCNMB1	juxta_ct	Monocytes	Monocytes	8.55450150154978	10
+KCNMB1	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.0748489975143367	3
+KCNMB1	juxta_ct	PVL	PVL	5.86667050254292	10
+KCNMB1	juxta_ct	TAM	TAM	15.0081608585395	10
+KCNMB1	juxta_ct	T_NK_cells	T-NK cells	1.55241852127139	7
+KCNMB1	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	16.3604402518487	10
+KCNMB1	para_ct	B_cells	B cells	13.8686871436494	9
+KCNMB1	para_ct	Endothelial_cells	Endothelial cells	13.4485647123735	10
+KCNMB1	para_ct	Fibroblasts	Fibroblasts	13.738160968191	10
+KCNMB1	para_ct	Hepatocytes	Hepatocytes	5.10695100391088	4
+KCNMB1	para_ct	Monocytes	Monocytes	14.0880096334631	10
+KCNMB1	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	16.7304937273056	3
+KCNMB1	para_ct	PVL	PVL	15.2913096785853	10
+KCNMB1	para_ct	TAM	TAM	13.7347953529082	10
+KCNMB1	para_ct	T_NK_cells	T-NK cells	12.2894014903486	7
+KCNMB1	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	14.259673439457	10
+KCNMB4	intra	B_cells	B cells	6.81590648845994	9
+KCNMB4	intra	Endothelial_cells	Endothelial cells	1.15180123650068	10
+KCNMB4	intra	Fibroblasts	Fibroblasts	12.0547381056519	10
+KCNMB4	intra	Hepatocytes	Hepatocytes	0.00196627051170232	4
+KCNMB4	intra	Monocytes	Monocytes	3.18499231190316	10
+KCNMB4	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.0592345845413203	3
+KCNMB4	intra	PVL	PVL	0.978423591800473	10
+KCNMB4	intra	TAM	TAM	7.66792188468408	10
+KCNMB4	intra	T_NK_cells	T-NK cells	0.587510606481861	7
+KCNMB4	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	8.82040938259043	10
+KCNMB4	juxta_ct	B_cells	B cells	10.3748838980201	9
+KCNMB4	juxta_ct	Endothelial_cells	Endothelial cells	2.82915812511227	10
+KCNMB4	juxta_ct	Fibroblasts	Fibroblasts	16.3369049287023	10
+KCNMB4	juxta_ct	Hepatocytes	Hepatocytes	0.00499382601960645	4
+KCNMB4	juxta_ct	Monocytes	Monocytes	6.89966343271587	10
+KCNMB4	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.147916113087992	3
+KCNMB4	juxta_ct	PVL	PVL	1.87563918691505	10
+KCNMB4	juxta_ct	TAM	TAM	13.1362024552108	10
+KCNMB4	juxta_ct	T_NK_cells	T-NK cells	1.09845718119558	7
+KCNMB4	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	14.1880355782247	10
+KCNMB4	para_ct	B_cells	B cells	11.0299815847158	9
+KCNMB4	para_ct	Endothelial_cells	Endothelial cells	10.5407194786267	10
+KCNMB4	para_ct	Fibroblasts	Fibroblasts	10.9764215814064	10
+KCNMB4	para_ct	Hepatocytes	Hepatocytes	6.04527211398346	4
+KCNMB4	para_ct	Monocytes	Monocytes	10.9375355216419	10
+KCNMB4	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	14.7034839055625	3
+KCNMB4	para_ct	PVL	PVL	10.3681078214011	10
+KCNMB4	para_ct	TAM	TAM	10.7636773410018	10
+KCNMB4	para_ct	T_NK_cells	T-NK cells	11.8610984386287	7
+KCNMB4	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	11.449094105459	10
+KCNN3	intra	B_cells	B cells	3.38276797949324	9
+KCNN3	intra	Endothelial_cells	Endothelial cells	1.52871354911968	10
+KCNN3	intra	Fibroblasts	Fibroblasts	5.94370601971325	10
+KCNN3	intra	Hepatocytes	Hepatocytes	9.06094917209656e-05	4
+KCNN3	intra	Monocytes	Monocytes	1.25042276201265	10
+KCNN3	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.189490513650395	3
+KCNN3	intra	PVL	PVL	0.722005176257873	10
+KCNN3	intra	TAM	TAM	3.80438188579915	10
+KCNN3	intra	T_NK_cells	T-NK cells	0.30519570741561	7
+KCNN3	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	4.27094334728144	10
+KCNN3	juxta_ct	B_cells	B cells	4.71816682054373	9
+KCNN3	juxta_ct	Endothelial_cells	Endothelial cells	1.74010499959648	10
+KCNN3	juxta_ct	Fibroblasts	Fibroblasts	7.07642232818018	10
+KCNN3	juxta_ct	Hepatocytes	Hepatocytes	0.0464130781990512	4
+KCNN3	juxta_ct	Monocytes	Monocytes	2.68638735865496	10
+KCNN3	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.280482205761594	3
+KCNN3	juxta_ct	PVL	PVL	1.20505867179186	10
+KCNN3	juxta_ct	TAM	TAM	5.66267487279651	10
+KCNN3	juxta_ct	T_NK_cells	T-NK cells	0.535386502656144	7
+KCNN3	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	6.0621590076994	10
+KCNN3	para_ct	B_cells	B cells	4.56335430518979	9
+KCNN3	para_ct	Endothelial_cells	Endothelial cells	4.5115475916554	10
+KCNN3	para_ct	Fibroblasts	Fibroblasts	4.72642679365385	10
+KCNN3	para_ct	Hepatocytes	Hepatocytes	2.19718754409912	4
+KCNN3	para_ct	Monocytes	Monocytes	4.68175753984988	10
+KCNN3	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	7.27283015298123	3
+KCNN3	para_ct	PVL	PVL	4.68895856551721	10
+KCNN3	para_ct	TAM	TAM	4.56392314563161	10
+KCNN3	para_ct	T_NK_cells	T-NK cells	4.55642722180759	7
+KCNN3	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	4.82997149403572	10
+KCNN4	intra	B_cells	B cells	8.87400013844874	9
+KCNN4	intra	Endothelial_cells	Endothelial cells	0.822068028557759	10
+KCNN4	intra	Fibroblasts	Fibroblasts	19.2839981821343	10
+KCNN4	intra	Hepatocytes	Hepatocytes	0.0129284354341696	4
+KCNN4	intra	Monocytes	Monocytes	2.87955512864118	10
+KCNN4	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.0370124281550421	3
+KCNN4	intra	PVL	PVL	0.395162009099839	10
+KCNN4	intra	TAM	TAM	10.8464782413971	10
+KCNN4	intra	T_NK_cells	T-NK cells	0.510977499655177	7
+KCNN4	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	19.9155398382841	10
+KCNN4	juxta_ct	B_cells	B cells	14.9053650465042	9
+KCNN4	juxta_ct	Endothelial_cells	Endothelial cells	2.4751556179901	10
+KCNN4	juxta_ct	Fibroblasts	Fibroblasts	25.7304490902829	10
+KCNN4	juxta_ct	Hepatocytes	Hepatocytes	0.196417859278543	4
+KCNN4	juxta_ct	Monocytes	Monocytes	7.65539982475428	10
+KCNN4	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.143229405765731	3
+KCNN4	juxta_ct	PVL	PVL	1.12920577400569	10
+KCNN4	juxta_ct	TAM	TAM	20.137788082872	10
+KCNN4	juxta_ct	T_NK_cells	T-NK cells	1.39624758578383	7
+KCNN4	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	29.2449352577208	10
+KCNN4	para_ct	B_cells	B cells	19.7169843999994	9
+KCNN4	para_ct	Endothelial_cells	Endothelial cells	19.3635915134137	10
+KCNN4	para_ct	Fibroblasts	Fibroblasts	20.468449464632	10
+KCNN4	para_ct	Hepatocytes	Hepatocytes	21.5486498502242	4
+KCNN4	para_ct	Monocytes	Monocytes	19.8719945391078	10
+KCNN4	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	31.9119309671692	3
+KCNN4	para_ct	PVL	PVL	19.6531109629068	10
+KCNN4	para_ct	TAM	TAM	21.0805369154714	10
+KCNN4	para_ct	T_NK_cells	T-NK cells	17.8881606225187	7
+KCNN4	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	21.9401979174599	10
+KCNQ4	intra	B_cells	B cells	2.08121950423547	9
+KCNQ4	intra	Endothelial_cells	Endothelial cells	0.389772831922799	10
+KCNQ4	intra	Fibroblasts	Fibroblasts	5.28303418016123	10
+KCNQ4	intra	Hepatocytes	Hepatocytes	0.000330848705246117	4
+KCNQ4	intra	Monocytes	Monocytes	0.872126276442978	10
+KCNQ4	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.190105439048369	3
+KCNQ4	intra	PVL	PVL	0.567222220575109	10
+KCNQ4	intra	TAM	TAM	3.0531731491259	10
+KCNQ4	intra	T_NK_cells	T-NK cells	0.0644168486720434	7
+KCNQ4	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	4.62717280498616	10
+KCNQ4	juxta_ct	B_cells	B cells	3.00210341780493	9
+KCNQ4	juxta_ct	Endothelial_cells	Endothelial cells	0.705421915181454	10
+KCNQ4	juxta_ct	Fibroblasts	Fibroblasts	6.1064846152575	10
+KCNQ4	juxta_ct	Hepatocytes	Hepatocytes	0.0448298970440074	4
+KCNQ4	juxta_ct	Monocytes	Monocytes	2.12143813130698	10
+KCNQ4	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.328640761482561	3
+KCNQ4	juxta_ct	PVL	PVL	0.600758425668898	10
+KCNQ4	juxta_ct	TAM	TAM	4.89257273333966	10
+KCNQ4	juxta_ct	T_NK_cells	T-NK cells	0.242175925361099	7
+KCNQ4	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	6.12795385529766	10
+KCNQ4	para_ct	B_cells	B cells	3.94946065802892	9
+KCNQ4	para_ct	Endothelial_cells	Endothelial cells	4.13938862927478	10
+KCNQ4	para_ct	Fibroblasts	Fibroblasts	4.37576472538052	10
+KCNQ4	para_ct	Hepatocytes	Hepatocytes	3.85543460817137	4
+KCNQ4	para_ct	Monocytes	Monocytes	4.25871276652503	10
+KCNQ4	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	6.20704674325462	3
+KCNQ4	para_ct	PVL	PVL	4.22308258601397	10
+KCNQ4	para_ct	TAM	TAM	4.30483869974669	10
+KCNQ4	para_ct	T_NK_cells	T-NK cells	3.9103739253322	7
+KCNQ4	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	4.31424960083203	10
+KCNS3	intra	B_cells	B cells	10.9921830773467	9
+KCNS3	intra	Endothelial_cells	Endothelial cells	2.3841930542216	10
+KCNS3	intra	Fibroblasts	Fibroblasts	19.5579883109742	10
+KCNS3	intra	Hepatocytes	Hepatocytes	0.155454278127324	4
+KCNS3	intra	Monocytes	Monocytes	4.90938604799767	10
+KCNS3	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.228169649319373	3
+KCNS3	intra	PVL	PVL	1.46131979149362	10
+KCNS3	intra	TAM	TAM	13.0901476474561	10
+KCNS3	intra	T_NK_cells	T-NK cells	0.524753384831992	7
+KCNS3	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	15.8483259476619	10
+KCNS3	juxta_ct	B_cells	B cells	17.5134811946475	9
+KCNS3	juxta_ct	Endothelial_cells	Endothelial cells	4.90319452115349	10
+KCNS3	juxta_ct	Fibroblasts	Fibroblasts	29.4582777043417	10
+KCNS3	juxta_ct	Hepatocytes	Hepatocytes	0.151261206832715	4
+KCNS3	juxta_ct	Monocytes	Monocytes	12.3233476633965	10
+KCNS3	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.624712538122478	3
+KCNS3	juxta_ct	PVL	PVL	2.6843519335625	10
+KCNS3	juxta_ct	TAM	TAM	25.1445972866605	10
+KCNS3	juxta_ct	T_NK_cells	T-NK cells	1.81400862471261	7
+KCNS3	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	27.4697505066469	10
+KCNS3	para_ct	B_cells	B cells	21.3031765164648	9
+KCNS3	para_ct	Endothelial_cells	Endothelial cells	21.9621222387671	10
+KCNS3	para_ct	Fibroblasts	Fibroblasts	21.8136580639797	10
+KCNS3	para_ct	Hepatocytes	Hepatocytes	16.114880513236	4
+KCNS3	para_ct	Monocytes	Monocytes	22.3802393430583	10
+KCNS3	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	32.5192274725752	3
+KCNS3	para_ct	PVL	PVL	22.0337032146727	10
+KCNS3	para_ct	TAM	TAM	22.0316838183135	10
+KCNS3	para_ct	T_NK_cells	T-NK cells	22.5899204767278	7
+KCNS3	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	23.1795234694443	10
+KCNT2	intra	B_cells	B cells	0.881553457321797	9
+KCNT2	intra	Endothelial_cells	Endothelial cells	0.14419934245509	10
+KCNT2	intra	Fibroblasts	Fibroblasts	2.31437682769767	10
+KCNT2	intra	Hepatocytes	Hepatocytes	7.21230699675222e-06	4
+KCNT2	intra	Monocytes	Monocytes	0.371829549713901	10
+KCNT2	intra	Normal_Epithelial_cells	Normal Epithelial cells	0.141555808166007	3
+KCNT2	intra	PVL	PVL	0.132045183906527	10
+KCNT2	intra	TAM	TAM	1.32266319361481	10
+KCNT2	intra	T_NK_cells	T-NK cells	0.146606066008159	7
+KCNT2	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	1.71307547130771	10
+KCNT2	juxta_ct	B_cells	B cells	1.16617826466159	9
+KCNT2	juxta_ct	Endothelial_cells	Endothelial cells	0.40442869569126	10
+KCNT2	juxta_ct	Fibroblasts	Fibroblasts	2.59918154110565	10
+KCNT2	juxta_ct	Hepatocytes	Hepatocytes	0.000112801271058061	4
+KCNT2	juxta_ct	Monocytes	Monocytes	0.907084106960596	10
+KCNT2	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	0.178867028216094	3
+KCNT2	juxta_ct	PVL	PVL	0.266933953318083	10
+KCNT2	juxta_ct	TAM	TAM	1.85936690100393	10
+KCNT2	juxta_ct	T_NK_cells	T-NK cells	0.227149699560564	7
+KCNT2	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	2.16197422600271	10
+KCNT2	para_ct	B_cells	B cells	1.47238404650111	9
+KCNT2	para_ct	Endothelial_cells	Endothelial cells	1.42670797885321	10
+KCNT2	para_ct	Fibroblasts	Fibroblasts	1.46570285290228	10
+KCNT2	para_ct	Hepatocytes	Hepatocytes	0.912411435045188	4
+KCNT2	para_ct	Monocytes	Monocytes	1.50147284033955	10
+KCNT2	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	1.92272591848781	3
+KCNT2	para_ct	PVL	PVL	1.40662027841971	10
+KCNT2	para_ct	TAM	TAM	1.42037897228947	10
+KCNT2	para_ct	T_NK_cells	T-NK cells	1.45951104452029	7
+KCNT2	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.6121219776048	10

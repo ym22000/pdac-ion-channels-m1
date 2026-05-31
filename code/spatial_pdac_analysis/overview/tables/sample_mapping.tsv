@@ -1,0 +1,31 @@
+orig.ident	origin	slide_name	sample_id2	n_spots	interpretation
+IU_PDA_HM10	Liver	V11N29-352	S21-15512 _A1	2348	Liver metastasis tissue section
+IU_PDA_HM11	Liver	V12M07-118	S21-23955_E3	3931	Liver metastasis tissue section
+IU_PDA_HM12	Liver	V11D13-308	S21-26075_A1	2961	Liver metastasis tissue section
+IU_PDA_HM13	Liver	V12A25-328	S22-1570_C2 Blu	2182	Liver metastasis tissue section
+IU_PDA_HM2	Liver	V12A25-377	S13-16408_F1(Blu)	2478	Liver metastasis tissue section
+IU_PDA_HM2_2	Liver	V12A25-377	S13-16408_F1(Blk)	959	Liver metastasis tissue section
+IU_PDA_HM3	Liver	V12M07-120	S14-8805_A1	1176	Liver metastasis tissue section
+IU_PDA_HM4	Liver	V12M07-120	S17-19380_A1	1841	Liver metastasis tissue section
+IU_PDA_HM5	Liver	V11D13-308	S18-24418_A1	3038	Liver metastasis tissue section
+IU_PDA_HM6	Liver	V12M15-057	S18-27094_A1	1666	Liver metastasis tissue section
+IU_PDA_HM8	Liver	V11N29-352	S20-11446_A1	4032	Liver metastasis tissue section
+IU_PDA_HM9	Liver	V12A25-326	S20-19254_D2	1908	Liver metastasis tissue section
+IU_PDA_LNM10	Lymph node	V12A25-328	S21-15512_C1	4147	Lymph node metastasis tissue section
+IU_PDA_LNM12	Lymph node	V12A25-326	S21-26075_H19	3213	Lymph node metastasis tissue section
+IU_PDA_LNM6	Lymph node	V12M07-119	S18-27094_C27	3745	Lymph node metastasis tissue section
+IU_PDA_LNM7	Lymph node	V12M07-119	S18-27180_I16	3186	Lymph node metastasis tissue section
+IU_PDA_LNM8	Lymph node	V12A25-326	S20-11446_B15	3407	Lymph node metastasis tissue section
+IU_PDA_NP10	Normal Pancreas	V12A25-328	S21-15512_E1	2966	Normal pancreas tissue section
+IU_PDA_NP11	Normal Pancreas	V12M07-118	S21-23955_F16	3859	Normal pancreas tissue section
+IU_PDA_NP2	Normal Pancreas	V12A25-377	S13-16408_E11(Blk)	2995	Normal pancreas tissue section
+IU_PDA_T1	Pancreas	V12M07-117	S13-11414_B9	3530	Primary PDAC tissue section
+IU_PDA_T10	Pancreas	V11N29-352	S21-15512_E9	2714	Primary PDAC tissue section
+IU_PDA_T11	Pancreas	V12M07-118	S21-23955_F12 	2777	Primary PDAC tissue section
+IU_PDA_T12	Pancreas	V11D13-308	S21-26075_H8	3642	Primary PDAC tissue section
+IU_PDA_T2	Pancreas	V12A25-377	S13-16408_E11(Blu)	4118	Primary PDAC tissue section
+IU_PDA_T3	Pancreas	V12M07-120	S14-8805_B2	4354	Primary PDAC tissue section
+IU_PDA_T4	Pancreas	V12M07-117	S17-19380_H6	3621	Primary PDAC tissue section
+IU_PDA_T6	Pancreas	V12M15-057	S18-27094_C7	3397	Primary PDAC tissue section
+IU_PDA_T8	Pancreas	v11N29-352	S20-11446_B9	3779	Primary PDAC tissue section
+IU_PDA_T9	Pancreas	V12A25-326	S20-19254_A3	3526	Primary PDAC tissue section

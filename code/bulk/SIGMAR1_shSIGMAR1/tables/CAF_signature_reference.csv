@@ -1,0 +1,6 @@
+"signature","source","interpretation_note","n_defined","n_present_bulk"
+"myCAF_top30","Ohlund et al. 2017 / Elyada et al. 2019","Contractile / myofibroblastic axis",30,25
+"iCAF_top30","Ohlund et al. 2017 / Elyada et al. 2019","Inflammatory fibroblast axis",30,27
+"csCAF_top30","Complement-secreting CAFs in PDAC single-cell multiomics","Complement / secretory fibroblast axis",30,18
+"apCAF_core","Elyada et al. 2019 MHC-II apCAF anchors + Chen X, Huang H et al. 2025 Cancer Cell apCAF niche markers","Bulk readout interpreted cautiously because only a subset of apCAF genes is detectable",47,27
+"ifCAF_manual","Curated stage interferon / ifCAF-like panel","Work signature assembled to track interferon-like fibro-inflammatory signal",17,13

@@ -1,0 +1,13 @@
+CellType2	gene	literature_note
+qPSC	RGS5	Perivascular / quiescent stellate-like marker
+qPSC	COX4I2	Perivascular hypoxia-associated marker
+smPSC	ACTA2	Smooth-muscle-like stellate marker
+smPSC	MYH11	Contractile smooth-muscle-like marker
+myCAF	POSTN	Canonical myCAF extracellular matrix marker
+myCAF	COL11A1	Canonical matrix-remodeling myCAF marker
+csCAF	C3	Complement-secreting CAF marker
+csCAF	C7	Complement-secreting CAF marker
+iCAF	IL6	Inflammatory CAF cytokine marker
+iCAF	HAS1	Inflammatory / secretory CAF marker
+Schwann	S100B	Canonical Schwann cell marker
+Schwann	MPZ	Myelinating Schwann cell marker

@@ -1,0 +1,217 @@
+target_gene	view	Predictor	Predictor_original	Importance	nsamples	importance_rank	normalized_importance
+KCNA5	intra	Fibroblasts	Fibroblasts	2.11331176844199	8	1	1
+KCNA5	intra	TAM	TAM	1.33993088575074	8	3	0.634043166635366
+KCNA5	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	1.58765811342626	8	2	0.7512654484467
+KCNA5	juxta_ct	Fibroblasts	Fibroblasts	2.03689223299125	8	1	1
+KCNA5	juxta_ct	TAM	TAM	1.70466193121449	8	3	0.836893530057372
+KCNA5	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.76171246221212	8	2	0.864902145375156
+KCNA5	para_ct	Endothelial_cells	Endothelial cells	1.32233211807482	8	2	0.669535272150027
+KCNA5	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	1.97499993365327	3	1	1
+KCNA5	para_ct	T_NK_cells	T-NK cells	1.26142104142011	6	3	0.638694219643231
+KCNAB1	intra	Fibroblasts	Fibroblasts	3.73454935572966	9	1	1
+KCNAB1	intra	TAM	TAM	2.31946994205363	9	3	0.621084291869118
+KCNAB1	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	2.57655708725676	9	2	0.689924497397183
+KCNAB1	juxta_ct	Fibroblasts	Fibroblasts	4.01773268311209	9	1	1
+KCNAB1	juxta_ct	TAM	TAM	3.35977670674767	9	3	0.836236995275959
+KCNAB1	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	3.3689633858946	9	2	0.838523528470551
+KCNAB1	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	4.67067109001264	3	1	1
+KCNAB1	para_ct	PVL	PVL	2.49394787592407	9	2	0.533959216536767
+KCNAB1	para_ct	T_NK_cells	T-NK cells	2.45954670993719	6	3	0.526593858256574
+KCNAB2	intra	Fibroblasts	Fibroblasts	20.229281229457	10	1	1
+KCNAB2	intra	TAM	TAM	16.5234670618385	10	2	0.816809399919643
+KCNAB2	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	14.6527011866878	10	3	0.724331281002272
+KCNAB2	juxta_ct	Fibroblasts	Fibroblasts	27.5070083576487	10	1	1
+KCNAB2	juxta_ct	TAM	TAM	25.7400704146926	10	2	0.935764081648496
+KCNAB2	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	23.4156238715774	10	3	0.851260288546297
+KCNAB2	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	28.3179282916869	3	1	1
+KCNAB2	para_ct	TAM	TAM	19.7009350200321	10	3	0.695705378483339
+KCNAB2	para_ct	T_NK_cells	T-NK cells	20.88365205484	7	2	0.737471040950785
+KCNB1	intra	Fibroblasts	Fibroblasts	1.78026035621548	7	1	1
+KCNB1	intra	TAM	TAM	1.09965919976641	7	3	0.617695718453282
+KCNB1	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	1.28534818307621	7	2	0.72200011565086
+KCNB1	juxta_ct	Fibroblasts	Fibroblasts	1.94161269581187	7	1	1
+KCNB1	juxta_ct	TAM	TAM	1.46024244998187	7	3	0.752077102262294
+KCNB1	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.62178167921001	7	2	0.835275584419206
+KCNB1	para_ct	Fibroblasts	Fibroblasts	1.25055506021121	7	2	0.997199847850308
+KCNB1	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	1.25406663760235	2	1	1
+KCNB1	para_ct	PVL	PVL	1.19560971590526	7	3	0.953386112073875
+KCNC4	intra	Fibroblasts	Fibroblasts	10.9868908705872	10	1	1
+KCNC4	intra	TAM	TAM	7.09299261891155	10	3	0.645586881899413
+KCNC4	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	9.21971797717629	10	2	0.839156234987114
+KCNC4	juxta_ct	Fibroblasts	Fibroblasts	14.8787696000505	10	1	1
+KCNC4	juxta_ct	TAM	TAM	11.7917746052478	10	3	0.792523503099867
+KCNC4	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	13.9988529241831	10	2	0.940860924692029
+KCNC4	para_ct	Fibroblasts	Fibroblasts	12.0577228438671	10	3	0.544073985120919
+KCNC4	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	22.1619176318222	3	1	1
+KCNC4	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	12.9224327842564	10	2	0.583091815380683
+KCND2	intra	Fibroblasts	Fibroblasts	7.93401673267474	10	1	1
+KCND2	intra	TAM	TAM	5.91666016204781	10	3	0.745733259886026
+KCND2	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	6.22001738617502	10	2	0.783968271778287
+KCND2	juxta_ct	Fibroblasts	Fibroblasts	10.1477270649997	10	1	1
+KCND2	juxta_ct	TAM	TAM	8.78893803842304	10	3	0.866099174931184
+KCND2	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	9.04778980922544	10	2	0.891607524647762
+KCND2	para_ct	Fibroblasts	Fibroblasts	7.19657034331025	10	3	0.470666215221935
+KCND2	para_ct	Monocytes	Monocytes	7.21465133441869	10	2	0.471848738458213
+KCND2	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	15.2901782846615	3	1	1
+KCND3	intra	Fibroblasts	Fibroblasts	9.62971285850219	10	1	1
+KCND3	intra	TAM	TAM	6.1500827458992	10	3	0.638656919086556
+KCND3	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	6.50972220680559	10	2	0.676003771084211
+KCND3	juxta_ct	Fibroblasts	Fibroblasts	12.1933821431669	10	1	1
+KCND3	juxta_ct	TAM	TAM	10.1836896430749	10	2	0.835181701311786
+KCND3	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	9.97364462452721	10	3	0.81795555223506
+KCND3	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	12.5228115519012	3	1	1
+KCND3	para_ct	T_NK_cells	T-NK cells	9.42666773622681	7	2	0.752759689559941
+KCND3	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	8.86313784028345	10	3	0.70775941996331
+KCNE4	intra	Fibroblasts	Fibroblasts	17.8447547663509	10	1	1
+KCNE4	intra	TAM	TAM	12.2455095798779	10	3	0.686224593176741
+KCNE4	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	12.6330075092976	10	2	0.707939541602392
+KCNE4	juxta_ct	Fibroblasts	Fibroblasts	24.1034508400436	10	1	1
+KCNE4	juxta_ct	TAM	TAM	21.1916016552242	10	2	0.879193680434262
+KCNE4	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	20.3450913494827	10	3	0.844073800241205
+KCNE4	para_ct	Endothelial_cells	Endothelial cells	16.8561697913725	10	3	0.614468913232981
+KCNE4	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	27.4320953076129	3	1	1
+KCNE4	para_ct	T_NK_cells	T-NK cells	16.956619402748	7	2	0.618130668204634
+KCNJ15	intra	Fibroblasts	Fibroblasts	13.8362898165083	10	2	0.94235709961087
+KCNJ15	intra	TAM	TAM	9.15751343642725	10	3	0.623696664065463
+KCNJ15	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	14.6826397574993	10	1	1
+KCNJ15	juxta_ct	Fibroblasts	Fibroblasts	17.5490639988325	10	2	0.883556198306522
+KCNJ15	juxta_ct	TAM	TAM	14.760499039142	10	3	0.743158177381942
+KCNJ15	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	19.8618537592381	10	1	1
+KCNJ15	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	30.0801342109641	3	1	1
+KCNJ15	para_ct	T_NK_cells	T-NK cells	14.0642452812465	7	3	0.467559259629902
+KCNJ15	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	14.6424755803049	10	2	0.486782255611338
+KCNJ16	intra	Fibroblasts	Fibroblasts	2.08705284992758	10	2	0.857648092158894
+KCNJ16	intra	Normal_Epithelial_cells	Normal Epithelial cells	2.43346061048652	3	1	1
+KCNJ16	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	1.80078868659798	10	3	0.740011438376211
+KCNJ16	juxta_ct	Fibroblasts	Fibroblasts	2.58239660668432	10	2	0.74582412009249
+KCNJ16	juxta_ct	Normal_Epithelial_cells	Normal Epithelial cells	3.46247397625605	3	1	1
+KCNJ16	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	2.31396695602405	10	3	0.668298728565788
+KCNJ16	para_ct	Hepatocytes	Hepatocytes	2.55525922616729	4	2	0.489384608225299
+KCNJ16	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	5.22137227697794	3	1	1
+KCNJ16	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	2.31258489652368	10	3	0.442907491335242
+KCNJ8	intra	Fibroblasts	Fibroblasts	16.1344156910444	10	1	1
+KCNJ8	intra	TAM	TAM	10.5793976077948	10	3	0.655703795562116
+KCNJ8	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	11.6068668604653	10	2	0.719385633959329
+KCNJ8	juxta_ct	Fibroblasts	Fibroblasts	21.9274105360946	10	1	1
+KCNJ8	juxta_ct	TAM	TAM	18.6425290478426	10	2	0.85019291343842
+KCNJ8	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	18.5961945576202	10	3	0.848079828076784
+KCNJ8	para_ct	Fibroblasts	Fibroblasts	16.6266306115178	10	3	0.60327817088022
+KCNJ8	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	27.5604711293606	3	1	1
+KCNJ8	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	17.0365050644864	10	2	0.61814999404481
+KCNK1	intra	Fibroblasts	Fibroblasts	27.5276689004146	10	1	1
+KCNK1	intra	TAM	TAM	14.4353080158496	10	3	0.524392678074972
+KCNK1	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	26.0901568027299	10	2	0.947779374167674
+KCNK1	juxta_ct	Fibroblasts	Fibroblasts	38.2663301025584	10	1	1
+KCNK1	juxta_ct	TAM	TAM	28.7128310019302	10	3	0.750341904357599
+KCNK1	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	37.9932957638335	10	2	0.9928648935502
+KCNK1	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	54.316854981987	3	1	1
+KCNK1	para_ct	TAM	TAM	33.1283651496219	10	3	0.609909486854646
+KCNK1	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	35.2438489746463	10	2	0.648856583952332
+KCNK15	intra	Fibroblasts	Fibroblasts	1.95384045822848	10	1	1
+KCNK15	intra	TAM	TAM	0.971638940476655	10	3	0.497296970376808
+KCNK15	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	1.46541895580706	10	2	0.750019762174309
+KCNK15	juxta_ct	Fibroblasts	Fibroblasts	2.23996269897555	10	1	1
+KCNK15	juxta_ct	TAM	TAM	1.5761875846035	10	3	0.703666889330062
+KCNK15	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.85460162398086	10	2	0.827960940969713
+KCNK15	para_ct	Fibroblasts	Fibroblasts	1.42888669108459	10	2	0.809386242364668
+KCNK15	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	1.7653953283293	3	1	1
+KCNK15	para_ct	PVL	PVL	1.41938694772468	10	3	0.804005156775808
+KCNK17	intra	B_cells	B cells	4.80588170464479	9	2	0.845451965820136
+KCNK17	intra	Fibroblasts	Fibroblasts	5.68439355390559	10	1	1
+KCNK17	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	4.00216095137013	10	3	0.704061200797816
+KCNK17	juxta_ct	B_cells	B cells	6.04614013574184	9	1	1
+KCNK17	juxta_ct	Fibroblasts	Fibroblasts	5.99655243942296	10	2	0.99179845402098
+KCNK17	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	5.48934341710622	10	3	0.907908730837364
+KCNK17	para_ct	B_cells	B cells	4.35290796304374	9	3	0.464991972454791
+KCNK17	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	9.36125400200742	3	1	1
+KCNK17	para_ct	T_NK_cells	T-NK cells	4.72508258010328	7	2	0.504748891450872
+KCNK3	intra	B_cells	B cells	7.04140133066222	9	3	0.517318143394154
+KCNK3	intra	Fibroblasts	Fibroblasts	9.68081303219897	10	2	0.711230618620641
+KCNK3	intra	TAM	TAM	13.6113558369772	10	1	1
+KCNK3	juxta_ct	B_cells	B cells	10.6800470232841	9	3	0.599222241509889
+KCNK3	juxta_ct	TAM	TAM	17.8231819239103	10	1	1
+KCNK3	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	11.303653973681	10	2	0.634210772349061
+KCNK3	para_ct	B_cells	B cells	9.89957480276944	9	3	0.568638193808893
+KCNK3	para_ct	Endothelial_cells	Endothelial cells	17.4092681612879	10	1	1
+KCNK3	para_ct	TAM	TAM	11.9887345546225	10	2	0.688640926405004
+KCNK6	intra	Fibroblasts	Fibroblasts	19.1452087824945	10	1	1
+KCNK6	intra	TAM	TAM	12.1275523992393	10	3	0.633451039213954
+KCNK6	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	15.2054567999904	10	2	0.794217340366302
+KCNK6	juxta_ct	Fibroblasts	Fibroblasts	25.9614591456704	10	1	1
+KCNK6	juxta_ct	TAM	TAM	21.7068451498858	10	3	0.83611807133367
+KCNK6	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	24.6946240156624	10	2	0.95120323850444
+KCNK6	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	29.0839415971794	3	1	1
+KCNK6	para_ct	TAM	TAM	18.8515367452851	10	3	0.648176818891472
+KCNK6	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	19.8119757240678	10	2	0.681199818046299
+KCNMA1	intra	Fibroblasts	Fibroblasts	32.133558841042	10	1	1
+KCNMA1	intra	TAM	TAM	22.3230084516585	10	3	0.694694557863503
+KCNMA1	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	22.8307456432272	10	2	0.710495396920277
+KCNMA1	juxta_ct	Fibroblasts	Fibroblasts	44.8622758225202	10	1	1
+KCNMA1	juxta_ct	TAM	TAM	38.4641233167005	10	2	0.857382346559246
+KCNMA1	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	37.830515858784	10	3	0.843258955663451
+KCNMA1	para_ct	B_cells	B cells	34.7387499353166	9	2	0.914914536857721
+KCNMA1	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	37.9693933540798	3	1	1
+KCNMA1	para_ct	TAM	TAM	33.7236229556165	10	3	0.888179135261134
+KCNMB1	intra	Fibroblasts	Fibroblasts	14.2854700851507	10	1	1
+KCNMB1	intra	TAM	TAM	9.32553128459025	10	3	0.652798348882049
+KCNMB1	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	10.5702484880186	10	2	0.739930042554644
+KCNMB1	juxta_ct	Fibroblasts	Fibroblasts	18.9911288936836	10	1	1
+KCNMB1	juxta_ct	TAM	TAM	15.0081608585395	10	3	0.790272181425254
+KCNMB1	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	16.3604402518487	10	2	0.861478027106126
+KCNMB1	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	16.7304937273056	3	1	1
+KCNMB1	para_ct	PVL	PVL	15.2913096785853	10	2	0.913978387477506
+KCNMB1	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	14.259673439457	10	3	0.852316355505041
+KCNMB4	intra	Fibroblasts	Fibroblasts	12.0547381056519	10	1	1
+KCNMB4	intra	TAM	TAM	7.66792188468408	10	3	0.636091951353878
+KCNMB4	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	8.82040938259043	10	2	0.731696475301686
+KCNMB4	juxta_ct	Fibroblasts	Fibroblasts	16.3369049287023	10	1	1
+KCNMB4	juxta_ct	TAM	TAM	13.1362024552108	10	3	0.804081465402406
+KCNMB4	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	14.1880355782247	10	2	0.868465332946739
+KCNMB4	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	14.7034839055625	3	1	1
+KCNMB4	para_ct	T_NK_cells	T-NK cells	11.8610984386287	7	2	0.806686259855837
+KCNMB4	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	11.449094105459	10	3	0.778665395153572
+KCNN3	intra	Fibroblasts	Fibroblasts	5.94370601971325	10	1	1
+KCNN3	intra	TAM	TAM	3.80438188579915	10	3	0.640068986114271
+KCNN3	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	4.27094334728144	10	2	0.718565711883491
+KCNN3	juxta_ct	Fibroblasts	Fibroblasts	7.07642232818018	10	1	1
+KCNN3	juxta_ct	TAM	TAM	5.66267487279651	10	3	0.800217201600058
+KCNN3	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	6.0621590076994	10	2	0.856670041237969
+KCNN3	para_ct	Fibroblasts	Fibroblasts	4.72642679365385	10	3	0.649874490980162
+KCNN3	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	7.27283015298123	3	1	1
+KCNN3	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	4.82997149403572	10	2	0.664111685882813
+KCNN4	intra	Fibroblasts	Fibroblasts	19.2839981821343	10	2	0.968289001388968
+KCNN4	intra	TAM	TAM	10.8464782413971	10	3	0.544623863047218
+KCNN4	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	19.9155398382841	10	1	1
+KCNN4	juxta_ct	Fibroblasts	Fibroblasts	25.7304490902829	10	2	0.879825818164188
+KCNN4	juxta_ct	TAM	TAM	20.137788082872	10	3	0.688590619381028
+KCNN4	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	29.2449352577208	10	1	1
+KCNN4	para_ct	Hepatocytes	Hepatocytes	21.5486498502242	4	3	0.675253712236757
+KCNN4	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	31.9119309671692	3	1	1
+KCNN4	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	21.9401979174599	10	2	0.687523357330892
+KCNQ4	intra	Fibroblasts	Fibroblasts	5.28303418016123	10	1	1
+KCNQ4	intra	TAM	TAM	3.0531731491259	10	3	0.577920385332946
+KCNQ4	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	4.62717280498616	10	2	0.875855170947418
+KCNQ4	juxta_ct	Fibroblasts	Fibroblasts	6.1064846152575	10	2	0.996496507554215
+KCNQ4	juxta_ct	TAM	TAM	4.89257273333966	10	3	0.798402345851543
+KCNQ4	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	6.12795385529766	10	1	1
+KCNQ4	para_ct	Fibroblasts	Fibroblasts	4.37576472538052	10	2	0.704967258404456
+KCNQ4	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	6.20704674325462	3	1	1
+KCNQ4	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	4.31424960083203	10	3	0.695056728148608
+KCNS3	intra	Fibroblasts	Fibroblasts	19.5579883109742	10	1	1
+KCNS3	intra	TAM	TAM	13.0901476474561	10	3	0.669299287806155
+KCNS3	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	15.8483259476619	10	2	0.8103249524272
+KCNS3	juxta_ct	Fibroblasts	Fibroblasts	29.4582777043417	10	1	1
+KCNS3	juxta_ct	TAM	TAM	25.1445972866605	10	3	0.853566441970047
+KCNS3	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	27.4697505066469	10	2	0.932496827626765
+KCNS3	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	32.5192274725752	3	1	1
+KCNS3	para_ct	T_NK_cells	T-NK cells	22.5899204767278	7	3	0.694663503177582
+KCNS3	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	23.1795234694443	10	2	0.712794407216241
+KCNT2	intra	Fibroblasts	Fibroblasts	2.31437682769767	10	1	1
+KCNT2	intra	TAM	TAM	1.32266319361481	10	3	0.571498633146353
+KCNT2	intra	Tumor_Epithelial_cells	Tumor Epithelial cells	1.71307547130771	10	2	0.740188655022038
+KCNT2	juxta_ct	Fibroblasts	Fibroblasts	2.59918154110565	10	1	1
+KCNT2	juxta_ct	TAM	TAM	1.85936690100393	10	3	0.715366307277246
+KCNT2	juxta_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	2.16197422600271	10	2	0.831790389325032
+KCNT2	para_ct	Monocytes	Monocytes	1.50147284033955	10	3	0.780908410243114
+KCNT2	para_ct	Normal_Epithelial_cells	Normal Epithelial cells	1.92272591848781	3	1	1
+KCNT2	para_ct	Tumor_Epithelial_cells	Tumor Epithelial cells	1.6121219776048	10	2	0.838456465429403

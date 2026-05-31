@@ -1,0 +1,14 @@
+Moffitt stroma exploration pipeline
+Run date: 2026-05-01
+Input object: C:/Users/pcyou/Desktop/stage_LLM/M1_Bioinformatics_Ion_Channel/data/Stroma_Subset2021.rds
+
+Main counts
+Cells: 21469
+Genes: 16972
+Samples: 40
+Datasets: 3
+Available reductions: pca, harmony, umap, tsne
+
+Stromal state rule
+Activated if Moffitt.F5_ActivatedStroma.top25 > Moffitt.F13_NormalStroma.top25
+Normal otherwise

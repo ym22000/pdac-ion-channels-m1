@@ -1,0 +1,10 @@
+"metric","value"
+"n_input_rows",17906
+"n_gene_symbols",17889
+"n_collapsed_genes",17889
+"n_samples",8
+"n_ctrl",4
+"n_shBKCa",4
+"n_deg_padj_lt_0_05",6734
+"n_up_shBKCa",3325
+"n_down_shBKCa",3409

@@ -1,0 +1,126 @@
+CellType2	gene	n_union_methods	union_methods_present	n_deg_methods
+csCAF	KCNA5	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNAB1	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNC4	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCND3	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+csCAF	KCNE4	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNJ8	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNK17	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNK6	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNMA1	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNK3	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNMB1	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+csCAF	KCNN3	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+csCAF	KCNS3	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNT2	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+csCAF	KCNA7	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCND2	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+csCAF	KCNJ15	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNK1	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	1
+csCAF	KCNK15	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+csCAF	KCNMB4	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNN4	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+csCAF	KCNQ4	2	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2	0
+csCAF	KCNAB2	1	Test4_Subtype_MAST	0
+csCAF	KCNB1	1	Test1_Activated_vs_Normal_DESeq2	0
+csCAF	KCNJ16	1	Test4_Subtype_MAST	0
+iCAF	KCNA5	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNAB1	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNC4	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	1
+iCAF	KCND3	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNE4	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNJ8	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNK17	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNK6	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNMA1	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNK3	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNMB1	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNN3	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNS3	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNT2	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNA7	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCND2	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNJ15	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNK1	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+iCAF	KCNK15	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNMB4	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNN4	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+iCAF	KCNQ4	2	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2	0
+iCAF	KCNAB2	1	Test4_Subtype_MAST	0
+iCAF	KCNB1	1	Test1_Activated_vs_Normal_DESeq2	0
+iCAF	KCNJ16	1	Test4_Subtype_MAST	0
+myCAF	KCNA5	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNAB1	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNC4	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCND3	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNE4	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNJ8	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNK17	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNK6	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNMA1	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	3
+myCAF	KCNK3	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNMB1	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	1
+myCAF	KCNN3	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+myCAF	KCNS3	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNT2	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNA7	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCND2	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+myCAF	KCNJ15	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	1
+myCAF	KCNK1	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+myCAF	KCNK15	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+myCAF	KCNMB4	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+myCAF	KCNN4	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+myCAF	KCNQ4	2	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2	0
+myCAF	KCNAB2	1	Test4_Subtype_MAST	1
+myCAF	KCNB1	1	Test1_Activated_vs_Normal_DESeq2	0
+myCAF	KCNJ16	1	Test4_Subtype_MAST	0
+qPSC	KCNA5	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNAB1	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNC4	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+qPSC	KCND3	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNE4	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	3
+qPSC	KCNJ8	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	3
+qPSC	KCNK17	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	3
+qPSC	KCNK6	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	3
+qPSC	KCNMA1	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNK3	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNMB1	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNN3	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNS3	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+qPSC	KCNT2	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+qPSC	KCNA7	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+qPSC	KCND2	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNJ15	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNK1	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNK15	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNMB4	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNN4	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+qPSC	KCNQ4	2	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2	0
+qPSC	KCNAB2	1	Test4_Subtype_MAST	0
+qPSC	KCNB1	1	Test1_Activated_vs_Normal_DESeq2	0
+qPSC	KCNJ16	1	Test4_Subtype_MAST	0
+smPSC	KCNA5	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	3
+smPSC	KCNAB1	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	3
+smPSC	KCNC4	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	3
+smPSC	KCND3	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNE4	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNJ8	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNK17	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+smPSC	KCNK6	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNMA1	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	3
+smPSC	KCNK3	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+smPSC	KCNMB1	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	3
+smPSC	KCNN3	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNS3	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	2
+smPSC	KCNT2	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNA7	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCND2	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNJ15	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNK1	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNK15	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNMB4	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNN4	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST	0
+smPSC	KCNQ4	2	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2	1
+smPSC	KCNAB2	1	Test4_Subtype_MAST	0
+smPSC	KCNB1	1	Test1_Activated_vs_Normal_DESeq2	0
+smPSC	KCNJ16	1	Test4_Subtype_MAST	1

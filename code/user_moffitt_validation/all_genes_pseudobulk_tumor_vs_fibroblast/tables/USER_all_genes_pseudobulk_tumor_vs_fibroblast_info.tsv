@@ -1,0 +1,2 @@
+comparison	n_patients	tumor_total_cells	fibroblast_total_cells	n_genes_tested	n_tumor_up_fdr_lt_0_05	n_fibroblast_up_fdr_lt_0_05
+Tumor_vs_Fibroblast	15	43817	17537	18993	5758	3750

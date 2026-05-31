@@ -1,0 +1,3 @@
+module	components	n_sections_used	n_pathways_fdr_lt_0_05	n_positive_pathways_fdr_lt_0_05	n_negative_pathways_fdr_lt_0_05	top_positive_pathway	top_positive_nes	top_positive_fdr	top_negative_pathway	top_negative_nes	top_negative_fdr	top_positive_gene	top_positive_gene_mean_delta	top_negative_gene	top_negative_gene_mean_delta
+KCNMA1_KCNMB1	KCNMA1+KCNMB1	10	17	4	13	HALLMARK_MYOGENESIS	2.04263647814044	4.6797636471341e-06	HALLMARK_MYC_TARGETS_V1	-2.18168278224213	1.31971788458165e-09	KCNMA1	0.792424780960953	KRT7	-0.180356358619122
+KCNMA1_KCNMB4	KCNMA1+KCNMB4	10	17	3	14	HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION	2.23158982326842	2.46128616304424e-06	HALLMARK_MYC_TARGETS_V1	-2.11845299077671	7.37394155880396e-11	KCNMA1	0.807413669784949	MUC1	-0.180664490246123

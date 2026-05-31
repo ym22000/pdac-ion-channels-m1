@@ -1,0 +1,10 @@
+"metric","value"
+"n_input_rows",16864
+"n_gene_symbols",14729
+"n_collapsed_genes",14729
+"n_samples",6
+"n_ctrl",3
+"n_shSigmaR1",3
+"n_deg_padj_lt_0_05",1546
+"n_up_shSigmaR1",424
+"n_down_shSigmaR1",1122

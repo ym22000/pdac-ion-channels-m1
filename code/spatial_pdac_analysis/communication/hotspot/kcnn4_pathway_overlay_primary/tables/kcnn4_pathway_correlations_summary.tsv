@@ -1,0 +1,4 @@
+pathway	n_sections	n_fdr_lt_0_05	median_rho	max_rho
+Tumor_proliferation_rate	10	6	-0.0179006929861328	0.0574165218555278
+ductal_tumoral_epithelial	10	10	0.23532873153604	0.423044978494624
+tumor_stress_secretory	10	10	0.214669592359756	0.374760809075928

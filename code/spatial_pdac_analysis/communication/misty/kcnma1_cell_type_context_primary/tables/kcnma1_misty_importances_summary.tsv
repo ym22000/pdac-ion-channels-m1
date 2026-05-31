@@ -1,0 +1,31 @@
+view	Predictor	Target	Predictor_original	Importance	nsamples
+intra	B_cells	KCNMA1	B cells	15.9651946906986	9
+intra	Endothelial_cells	KCNMA1	Endothelial cells	3.05152034288079	10
+intra	Fibroblasts	KCNMA1	Fibroblasts	32.133558841042	10
+intra	Hepatocytes	KCNMA1	Hepatocytes	0.00906427006854694	4
+intra	Monocytes	KCNMA1	Monocytes	7.11494856406129	10
+intra	Normal_Epithelial_cells	KCNMA1	Normal Epithelial cells	0.303958901182888	3
+intra	PVL	KCNMA1	PVL	5.57769741277011	10
+intra	TAM	KCNMA1	TAM	22.3230084516585	10
+intra	T_NK_cells	KCNMA1	T-NK cells	1.20324399685217	7
+intra	Tumor_Epithelial_cells	KCNMA1	Tumor Epithelial cells	22.8307456432272	10
+juxta_ct	B_cells	KCNMA1	B cells	24.8351279984239	9
+juxta_ct	Endothelial_cells	KCNMA1	Endothelial cells	9.60199623487132	10
+juxta_ct	Fibroblasts	KCNMA1	Fibroblasts	44.8622758225202	10
+juxta_ct	Hepatocytes	KCNMA1	Hepatocytes	0.223295880742119	4
+juxta_ct	Monocytes	KCNMA1	Monocytes	18.8108970681052	10
+juxta_ct	Normal_Epithelial_cells	KCNMA1	Normal Epithelial cells	1.241502038004	3
+juxta_ct	PVL	KCNMA1	PVL	9.6533754988138	10
+juxta_ct	TAM	KCNMA1	TAM	38.4641233167005	10
+juxta_ct	T_NK_cells	KCNMA1	T-NK cells	4.11855334676954	7
+juxta_ct	Tumor_Epithelial_cells	KCNMA1	Tumor Epithelial cells	37.830515858784	10
+para_ct	B_cells	KCNMA1	B cells	34.7387499353166	9
+para_ct	Endothelial_cells	KCNMA1	Endothelial cells	32.2474837321067	10
+para_ct	Fibroblasts	KCNMA1	Fibroblasts	33.5500028832555	10
+para_ct	Hepatocytes	KCNMA1	Hepatocytes	13.453778097368	4
+para_ct	Monocytes	KCNMA1	Monocytes	32.2678729515149	10
+para_ct	Normal_Epithelial_cells	KCNMA1	Normal Epithelial cells	37.9693933540798	3
+para_ct	PVL	KCNMA1	PVL	33.459948850014	10
+para_ct	TAM	KCNMA1	TAM	33.7236229556165	10
+para_ct	T_NK_cells	KCNMA1	T-NK cells	31.7013191412673	7
+para_ct	Tumor_Epithelial_cells	KCNMA1	Tumor Epithelial cells	33.3858297218351	10

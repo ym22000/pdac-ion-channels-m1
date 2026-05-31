@@ -1,0 +1,7 @@
+pathway	gene	in_input_assay
+Tumor_Epithelial	EPCAM	TRUE
+Tumor_Epithelial	KRT19	FALSE
+Tumor_Epithelial	MUC1	TRUE
+Tumor_Epithelial	KRT7	TRUE
+Tumor_Epithelial	KRT8	TRUE
+Tumor_Epithelial	KRT18	TRUE

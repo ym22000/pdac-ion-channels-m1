@@ -1,0 +1,11 @@
+pathway	gene	in_input_assay
+iCAF_immune_border	C7	TRUE
+iCAF_immune_border	C1R	TRUE
+iCAF_immune_border	CCL19	TRUE
+iCAF_immune_border	CCL21	TRUE
+iCAF_immune_border	MFAP4	TRUE
+iCAF_immune_border	CLU	TRUE
+iCAF_immune_border	DCN	TRUE
+iCAF_immune_border	CXCL12	TRUE
+iCAF_immune_border	SOD3	TRUE
+iCAF_immune_border	OGN	TRUE

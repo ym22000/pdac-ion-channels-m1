@@ -1,0 +1,9 @@
+assay	n_features	n_spots	example_features	notes
+Spatial	17893	91496	SAMD11, NOC2L, KLHL17, PLEKHN1, HES4, ISG15, AGRN, C1orf159, TNFRSF18, TNFRSF4	Raw spatial transcript counts.
+SCT	17860	91496	SAMD11, NOC2L, KLHL17, PLEKHN1, HES4, ISG15, AGRN, C1orf159, TNFRSF4, SDF4	SCTransform-normalized gene expression.
+integrated	3000	91496	IGKC, IGHA1, IGLC1, IGHG1, IGKV4-1, IGHM, HBA2, JCHAIN, SPP1, IGHJ6	Integrated expression space used for joint analysis.
+rctd_full	9	91496	B cells, CAF-S1, CAF-S4, Endothelial cells, Epithelial cells, Hepatocytes, Myeloid, NK cells, T cells	Cell-type deconvolution assay inferred from the assay name and feature labels.
+rctd_multi1	10	91496	Fibroblasts, Monocytes, B cells, TAM, Hepatocytes, Endothelial cells, PVL, Normal Epithelial cells, T-NK cells, Tumor Epithelial cells	Cell-type deconvolution assay inferred from the assay name and feature labels.
+rctd_full_all	25	91496	B cells, C1Q-TAM, CAF-S4, CD1C-DC, CD4+ Naive cells, CD8+ GZMK-Tem, CD8+ ISG T cells, CD8+ Naive cells, CD8+ Tem, CD8+ Tex	Cell-type deconvolution assay inferred from the assay name and feature labels.
+rctd_fullfinal	15	91496	B cells, C1Q-TAM, CD4+ cells, CD8-NK cells, DCs, Endothelial cells, FCN1-TAM, Hepatocytes, iCAF, myCAF	Cell-type deconvolution assay inferred from the assay name and feature labels.
+fges	27	91496	Angiogenesis, Bcells, Cancer-associated-fibroblasts, Checkpoint-molecules, Co-stimulatory-ligands, Co-stimulatory-receptors, ECM, Effector-cell-traffic, Effector-cells, Endothelium	Functional or pathway-like spot scores inferred from the assay name and feature labels.

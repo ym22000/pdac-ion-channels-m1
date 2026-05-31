@@ -1,0 +1,561 @@
+cohort	display_name	sample_id	sample_group	survival_months	survival_status	eligible_survival	eligibility_reason
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0006	Tumor	42.9404517453799	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0007	Tumor	1.87268993839836	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0009	Tumor	13.2731006160164	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0020	Tumor	41.9219712525667	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0021	Tumor	23.7864476386037	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0025	Tumor	11.5975359342916	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0026	Tumor	8.6735112936345	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0031	Tumor	35.8439425051335	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0033	Tumor	25.5605749486653	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0037	Tumor	5.12525667351129	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0048	Tumor	41.9548254620123	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0051	Tumor	20.1396303901437	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0052	Tumor	46.9486652977413	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0053	Tumor	20.3039014373717	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0054	Tumor	2.8911704312115	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0055	Tumor	13.7987679671458	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0059	Tumor	41.9548254620123	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0061	Tumor	31.8685831622177	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0063	Tumor	41.9548254620123	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0066	Tumor	10.3490759753593	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0067	Tumor	16.4928131416838	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0075	Tumor	15.8357289527721	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0087	Tumor	12.0246406570842	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0088	Tumor	46.9486652977413	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0099	Tumor	0.262833675564682	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0103	Tumor	35.7453798767967	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0105	Tumor	14.3244353182752	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0108	Tumor	14.0944558521561	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0109	Tumor	29.9630390143737	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0114	Tumor	16.6242299794661	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0115	Tumor	26.5133470225873	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0124	Tumor	5.19096509240246	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0134	Tumor	3.25256673511294	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0135	Tumor	29.9630390143737	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0139	Tumor	33.9712525667351	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0140	Tumor	34.9568788501027	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0141	Tumor	12.911704312115	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0143	Tumor	29.9630390143737	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0144	Tumor	27.958932238193	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0146	Tumor	34.9568788501027	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0149	Tumor	33.2484599589322	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0150	Tumor	27.958932238193	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0153	Tumor	13.700205338809	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0169	Tumor	27.958932238193	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0185	Tumor	32.952772073922	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0188	Tumor	7.7864476386037	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0192	Tumor	3.28542094455852	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0199	Tumor	17.6755646817248	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0201	Tumor	23.2607802874743	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0205	Tumor	9.36344969199179	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0206	Tumor	3.61396303901437	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0207	Tumor	6.83367556468172	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0212	Tumor	19.7782340862423	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0214	Tumor	13.1745379876797	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0215	Tumor	23.6550308008214	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0223	Tumor	7.3264887063655	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0224	Tumor	21.9794661190965	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0227	Tumor	9.49486652977413	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0230	Tumor	8.37782340862423	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0235	Tumor	17.5770020533881	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0295	Tumor	20.9609856262834	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0296	Tumor	23.9835728952772	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0300	Tumor	21.9794661190965	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0301	Tumor	17.9712525667351	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0303	Tumor	6.70225872689938	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0304	Tumor	23.9835728952772	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0309	Tumor	9.79055441478439	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0312	Tumor	14.0944558521561	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0313	Tumor	16.9856262833676	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0315	Tumor	7.29363449691992	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0321	Tumor	37.9466119096509	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0326	Tumor	9.00205338809035	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0338	Tumor	20.6652977412731	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0354	Tumor	3.58110882956879	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0365	Tumor	10.9733059548255	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0391	Tumor	15.7700205338809	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0392	Tumor	10.8747433264887	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0393	Tumor	2.79260780287474	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0395	Tumor	8.57494866529774	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0406	Tumor	13.9958932238193	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0412	Tumor	12.9774127310062	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0415	Tumor	10.2833675564682	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0417	Tumor	14.9815195071869	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0419	Tumor	11.9917864476386	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0420	Tumor	6.50513347022587	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0486	Tumor	4.99383983572895	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0502	Tumor	34.2669404517454	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0503	Tumor	27.4661190965092	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0507	Tumor	50.3326488706366	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0518	Tumor	0.887063655030801	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0521	Tumor	14.0944558521561	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0522	Tumor	14.9815195071869	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0526	Tumor	0.0328542094455852	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0535	Tumor	9.39630390143737	0	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0536	Tumor	5.68377823408624	1	TRUE	included
+Bailey_QCMG_UQ_2016	Bailey / QCMG-UQ 2016	ICGC_0543	Tumor	5.19096509240246	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527105	Tumor	51.1	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527106	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527107	Tumor	6.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527108	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527109	Tumor	2.7	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527110	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527111	Tumor	41.6	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527112	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527113	Tumor	NA	NA	FALSE	excluded_missing_survival
+Hussain_GSE62452	Hussain / GSE62452	GSM1527114	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527115	Tumor	35.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527116	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527117	Tumor	2.4	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527118	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527119	Tumor	NA	NA	FALSE	excluded_missing_survival
+Hussain_GSE62452	Hussain / GSE62452	GSM1527120	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527121	Tumor	NA	NA	FALSE	excluded_missing_survival
+Hussain_GSE62452	Hussain / GSE62452	GSM1527122	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527123	Tumor	19.5	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527124	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527125	Tumor	12.6	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527126	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527127	Tumor	16	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527128	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527129	Tumor	40.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527130	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527131	Tumor	2.8	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527132	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527133	Tumor	11.6	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527134	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527135	Tumor	24.7	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527136	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527137	Tumor	40	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527138	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527139	Tumor	1.2	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527140	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527141	Tumor	13.2	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527142	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527143	Tumor	23.2	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527144	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527145	Tumor	10.8	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527146	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527147	Tumor	29	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527148	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527149	Tumor	27.7	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527150	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527151	Tumor	27.6	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527152	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527153	Tumor	NA	NA	FALSE	excluded_missing_survival
+Hussain_GSE62452	Hussain / GSE62452	GSM1527154	Adjacent_non_tumor	13.8	1	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527155	Tumor	6.8	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527156	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527157	Tumor	28.2	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527158	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527159	Tumor	9.8	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527160	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527161	Tumor	23.6	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527162	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527163	Tumor	7.7	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527164	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527165	Tumor	21.8	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527166	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527167	Tumor	21.2	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527168	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527169	Tumor	21.1	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527170	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527171	Tumor	8.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527172	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527173	Tumor	17.3	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527174	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527175	Tumor	6.4	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527176	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527177	Tumor	16.4	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527178	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527179	Tumor	4.6	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527180	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527181	Tumor	10.6	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527182	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527183	Tumor	4.2	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527184	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527185	Tumor	10.3	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527186	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527187	Tumor	9.7	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527188	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527189	Tumor	14.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527190	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527191	Tumor	4.5	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527192	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527193	Tumor	12.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527194	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527195	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527196	Tumor	9.5	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527197	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527198	Tumor	6.3	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527199	Tumor	0.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527200	Tumor	5.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527201	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527202	Tumor	9.8	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527203	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527204	Tumor	5.3	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527205	Tumor	21.5	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527206	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527207	Tumor	14.2	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527208	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527209	Tumor	32	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527210	Tumor	22.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527211	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527212	Tumor	45.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527213	Tumor	21.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527214	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527215	Tumor	42	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527216	Tumor	38.3	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527217	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527218	Tumor	13.7	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527219	Tumor	10.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527220	Tumor	21.3	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527221	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527222	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527223	Tumor	9.3	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527224	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527225	Tumor	19.9	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527226	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527227	Tumor	70.8	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527228	Tumor	68	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527229	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527230	Tumor	67.7	0	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527231	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527232	Tumor	49.7	1	TRUE	included
+Hussain_GSE62452	Hussain / GSE62452	GSM1527233	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Hussain_GSE62452	Hussain / GSE62452	GSM1527234	Tumor	3.2	1	TRUE	included
+PH_GSE183795	PH / GSE183795	10_E225_Tp1.CEL	Tumor	13.90683407	1	TRUE	included
+PH_GSE183795	PH / GSE183795	10_E33-Tn13_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	11_E29_Tp1.CEL	Tumor	3.945201156	1	TRUE	included
+PH_GSE183795	PH / GSE183795	11_E41-Tc7_T.CEL	Tumor	35.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	12_E41-Tn13_N.CEL	Adjacent_non_tumor	35.9	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	12_E60_Tp1.CEL	Tumor	4.668488035	1	TRUE	included
+PH_GSE183795	PH / GSE183795	13_E42-Tc10_T.CEL	Tumor	2.4	1	TRUE	included
+PH_GSE183795	PH / GSE183795	14_E202_Tp1.CEL	Tumor	8.35067578	1	TRUE	included
+PH_GSE183795	PH / GSE183795	14_E42-Tn14_N.CEL	Adjacent_non_tumor	2.4	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	15_E260_Tp1.CEL	Tumor	2.465750722	1	TRUE	included
+PH_GSE183795	PH / GSE183795	15_E45-Tc7_T.CEL	Tumor	NA	NA	FALSE	excluded_missing_survival
+PH_GSE183795	PH / GSE183795	16_E262_Tp1.CEL	Tumor	NA	NA	FALSE	excluded_missing_survival
+PH_GSE183795	PH / GSE183795	16_E45-Tn14_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	17_E251_Tp1.CEL	Tumor	24.92052064	0	TRUE	included
+PH_GSE183795	PH / GSE183795	17_E48-Tc7_T.CEL	Tumor	NA	NA	FALSE	excluded_missing_survival
+PH_GSE183795	PH / GSE183795	18_E251_Tn7.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	18_E48-Tn13_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	19_E253_Tp1.CEL	Tumor	5.161638179	1	TRUE	included
+PH_GSE183795	PH / GSE183795	19_E52-Tc7_T.CEL	Tumor	19.5	1	TRUE	included
+PH_GSE183795	PH / GSE183795	1_E5-Tc8_T.CEL	Tumor	51.1	1	TRUE	included
+PH_GSE183795	PH / GSE183795	1_E74_Tp4.CEL	Tumor	56.02185641	0	TRUE	included
+PH_GSE183795	PH / GSE183795	20_E253_Tn7.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	20_E52-Tn15_N.CEL	Adjacent_non_tumor	19.5	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	21_E164_Tp1.CEL	Tumor	19.72600578	1	TRUE	included
+PH_GSE183795	PH / GSE183795	21_E58-Tc7_T.CEL	Tumor	12.6	1	TRUE	included
+PH_GSE183795	PH / GSE183795	22_E164_Tn7_R.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	22_E58-Tn13_N.CEL	Adjacent_non_tumor	12.6	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	23_E193_Tp2_R.CEL	Tumor	8.35067578	1	TRUE	included
+PH_GSE183795	PH / GSE183795	23_E64-Tp3_T.CEL	Tumor	16	1	TRUE	included
+PH_GSE183795	PH / GSE183795	24_E64-Tn16_N.CEL	Adjacent_non_tumor	16	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	25_E194_Tp1.CEL	Tumor	8.876702601	1	TRUE	included
+PH_GSE183795	PH / GSE183795	25_E73-Tc7_T.CEL	Tumor	40.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	26_E194_Tn7_R.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	26_E73-Tn13_N.CEL	Adjacent_non_tumor	40.9	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	27_E172_Tp1.CEL	Tumor	30.77256902	1	TRUE	included
+PH_GSE183795	PH / GSE183795	27_E82-Tp1_T.CEL	Tumor	2.8	1	TRUE	included
+PH_GSE183795	PH / GSE183795	28_E197_Tp2.CEL	Tumor	34.29037338	0	TRUE	included
+PH_GSE183795	PH / GSE183795	28_E82-Tn13_N.CEL	Adjacent_non_tumor	2.8	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	29_E221_Tp1.CEL	Tumor	12.6246437	1	TRUE	included
+PH_GSE183795	PH / GSE183795	29_E86-Tc8_T.CEL	Tumor	11.6	1	TRUE	included
+PH_GSE183795	PH / GSE183795	2_E5-Tn14_N.CEL	Adjacent_non_tumor	51.1	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	2_E74_Tn15.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	30_E223_Tp1_R.CEL	Tumor	10.6849198	1	TRUE	included
+PH_GSE183795	PH / GSE183795	30_E86-Tn13_N.CEL	Adjacent_non_tumor	11.6	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	31_E157_Tp1_R.CEL	Tumor	35.34242702	0	TRUE	included
+PH_GSE183795	PH / GSE183795	31_E88-Tc7_T.CEL	Tumor	24.7	1	TRUE	included
+PH_GSE183795	PH / GSE183795	32_E169_Tp1.CEL	Tumor	25.2492874	1	TRUE	included
+PH_GSE183795	PH / GSE183795	32_E88-Tn13_N.CEL	Adjacent_non_tumor	24.7	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	33_E174_Tp1.CEL	Tumor	1.709587168	1	TRUE	included
+PH_GSE183795	PH / GSE183795	33_E94-Tc7_T.CEL	Tumor	40	0	TRUE	included
+PH_GSE183795	PH / GSE183795	34_E419_Tp1.CEL	Tumor	7.19999211	1	TRUE	included
+PH_GSE183795	PH / GSE183795	34_E94-Tn13_N.CEL	Adjacent_non_tumor	40	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	35_E109Tp1_T.CEL	Tumor	1.2	1	TRUE	included
+PH_GSE183795	PH / GSE183795	35_E440_T.CEL	Tumor	1.643833815	1	TRUE	included
+PH_GSE183795	PH / GSE183795	36_E109-Tn13_N.CEL	Adjacent_non_tumor	1.2	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	36_E440_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	37_E119-Tc7_T.CEL	Tumor	13.2	1	TRUE	included
+PH_GSE183795	PH / GSE183795	37_E445_T.CEL	Tumor	14.03834078	1	TRUE	included
+PH_GSE183795	PH / GSE183795	38_E119-Tn13_N.CEL	Adjacent_non_tumor	13.2	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	38_E445_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	39_E120-Tc7_T.CEL	Tumor	23.2	1	TRUE	included
+PH_GSE183795	PH / GSE183795	39_E465_T.CEL	Tumor	10.8164265	0	TRUE	included
+PH_GSE183795	PH / GSE183795	3_E12-Tp2_T.CEL	Tumor	6.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	3_E151_Tp2.CEL	Tumor	15.05751775	1	TRUE	included
+PH_GSE183795	PH / GSE183795	40_E120-Tn13_N.CEL	Adjacent_non_tumor	23.2	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	40_E465_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	41_E123-Tc7_T.CEL	Tumor	10.8	1	TRUE	included
+PH_GSE183795	PH / GSE183795	41_E365_T.CEL	Tumor	22.0602498	0	TRUE	included
+PH_GSE183795	PH / GSE183795	42_E123-Tn13_N.CEL	Adjacent_non_tumor	10.8	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	42_E365_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	43_E130-Tp1_T.CEL	Tumor	29	1	TRUE	included
+PH_GSE183795	PH / GSE183795	44_E130-Tn13_N.CEL	Adjacent_non_tumor	29	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	44_E368_N_R.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	45_E133-Tp4_T.CEL	Tumor	27.7	1	TRUE	included
+PH_GSE183795	PH / GSE183795	45_E370_T.CEL	Tumor	10.65204312	0	TRUE	included
+PH_GSE183795	PH / GSE183795	46_E133-Tn15_N.CEL	Adjacent_non_tumor	27.7	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	46_E370_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	47_E136-Tp1_T.CEL	Tumor	27.6	0	TRUE	included
+PH_GSE183795	PH / GSE183795	47_E482_T.CEL	Tumor	9.271222716	0	TRUE	included
+PH_GSE183795	PH / GSE183795	48_E136-Tn13_N.CEL	Adjacent_non_tumor	27.6	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	48_E482_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	49_E138-Tp1_T.CEL	Tumor	13.8	1	TRUE	included
+PH_GSE183795	PH / GSE183795	49_E488_T.CEL	Tumor	8.35067578	0	TRUE	included
+PH_GSE183795	PH / GSE183795	4_E12-Tn15_N.CEL	Adjacent_non_tumor	6.9	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	4_E151_Tn8.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	50_E138-Tn14_N.CEL	Adjacent_non_tumor	13.8	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	50_E488_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	51_E139-Tp1_T.CEL	Tumor	6.8	1	TRUE	included
+PH_GSE183795	PH / GSE183795	51_E388_T.CEL	Tumor	NA	NA	FALSE	excluded_missing_survival
+PH_GSE183795	PH / GSE183795	52_E139-Tn13_N.CEL	Adjacent_non_tumor	6.8	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	52_E388_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	53_E152-Tc5_T.CEL	Tumor	28.2	0	TRUE	included
+PH_GSE183795	PH / GSE183795	53_E394_T.CEL	Tumor	2.827394162	1	TRUE	included
+PH_GSE183795	PH / GSE183795	54_E152-Tn7_N.CEL	Adjacent_non_tumor	28.2	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	54_E394_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	55_E162-Tp1_T.CEL	Tumor	9.8	1	TRUE	included
+PH_GSE183795	PH / GSE183795	55_E400_T.CEL	Tumor	14.20272416	1	TRUE	included
+PH_GSE183795	PH / GSE183795	56_E162-Tn9_N.CEL	Adjacent_non_tumor	9.8	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	56_E400_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	57_E165-Tp1_T.CEL	Tumor	23.6	0	TRUE	included
+PH_GSE183795	PH / GSE183795	57_E403_T.CEL	Tumor	11.01368656	1	TRUE	included
+PH_GSE183795	PH / GSE183795	58_E165-Tn7_N.CEL	Adjacent_non_tumor	23.6	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	58_E403_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	59_E178-Tp1_T.CEL	Tumor	7.7	1	TRUE	included
+PH_GSE183795	PH / GSE183795	59_E405_T.CEL	Tumor	1.183560347	1	TRUE	included
+PH_GSE183795	PH / GSE183795	5_E205_Tp3.CEL	Tumor	3.189037601	1	TRUE	included
+PH_GSE183795	PH / GSE183795	5_E21-Tc8_T.CEL	Tumor	2.7	1	TRUE	included
+PH_GSE183795	PH / GSE183795	60_E178-Tn7_N.CEL	Adjacent_non_tumor	7.7	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	60_E405_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	61_E179-Tp1_T.CEL	Tumor	21.8	0	TRUE	included
+PH_GSE183795	PH / GSE183795	61_E409_T.CEL	Tumor	18.18080199	0	TRUE	included
+PH_GSE183795	PH / GSE183795	62_E179-Tn7_N.CEL	Adjacent_non_tumor	21.8	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	62_E409_N_R.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	63_E181-Tp1_T.CEL	Tumor	21.2	0	TRUE	included
+PH_GSE183795	PH / GSE183795	63_E415_T.CEL	Tumor	17.45751512	0	TRUE	included
+PH_GSE183795	PH / GSE183795	64_E181-Tn8_N.CEL	Adjacent_non_tumor	21.2	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	64_E415_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	65_E182-Tp2_T.CEL	Tumor	21.1	0	TRUE	included
+PH_GSE183795	PH / GSE183795	65_E499_T.CEL	Tumor	7.758895607	0	TRUE	included
+PH_GSE183795	PH / GSE183795	66_E182-Tn7_N.CEL	Adjacent_non_tumor	21.1	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	66_E499_N_R.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	67_E186-Tp2_T.CEL	Tumor	8.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	67_E501_T.CEL	Tumor	1.643833815	0	TRUE	included
+PH_GSE183795	PH / GSE183795	68_E186-Tn7_N.CEL	Adjacent_non_tumor	8.9	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	68_E501_N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	69_E203-Tp1_T.CEL	Tumor	17.3	0	TRUE	included
+PH_GSE183795	PH / GSE183795	69_E401_T.CEL	Tumor	14.33423087	1	TRUE	included
+PH_GSE183795	PH / GSE183795	6_E205_Tn7.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	6_E21-Tn16_N.CEL	Adjacent_non_tumor	2.7	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	70_E203-Tn7_N.CEL	Adjacent_non_tumor	17.3	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	70_E420_T_2.CEL	Tumor	7.923278988	1	TRUE	included
+PH_GSE183795	PH / GSE183795	71_E208-Tp1_T.CEL	Tumor	6.4	1	TRUE	included
+PH_GSE183795	PH / GSE183795	71_E421_T.CEL	Tumor	0.756163555	1	TRUE	included
+PH_GSE183795	PH / GSE183795	72_E208-Tn8_N.CEL	Adjacent_non_tumor	6.4	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	73_E209-Tp2_T.CEL	Tumor	16.4	0	TRUE	included
+PH_GSE183795	PH / GSE183795	74_E209-Tn8_N.CEL	Adjacent_non_tumor	16.4	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	75_E218-Tp1_T.CEL	Tumor	4.6	1	TRUE	included
+PH_GSE183795	PH / GSE183795	76_E218-Tn7_N.CEL	Adjacent_non_tumor	4.6	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	77_E245-Tp1_T.CEL	Tumor	10.6	0	TRUE	included
+PH_GSE183795	PH / GSE183795	78_E245-Tn7_N.CEL	Adjacent_non_tumor	10.6	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	79_E246-Tp1_T.CEL	Tumor	4.2	1	TRUE	included
+PH_GSE183795	PH / GSE183795	7_E122_Tn8.CEL	Tumor	33.27119642	1	TRUE	included
+PH_GSE183795	PH / GSE183795	7_E28-Tp1_T.CEL	Tumor	41.6	1	TRUE	included
+PH_GSE183795	PH / GSE183795	80_E246-Tn7_N.CEL	Adjacent_non_tumor	4.2	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	81_E249-Tp1_T.CEL	Tumor	10.3	1	TRUE	included
+PH_GSE183795	PH / GSE183795	82_E249-Tn7_N.CEL	Adjacent_non_tumor	10.3	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	83_E250-Tp1_T.CEL	Tumor	9.7	0	TRUE	included
+PH_GSE183795	PH / GSE183795	84_E250-Tn7_N.CEL	Adjacent_non_tumor	9.7	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	85_E220-Tp1_T.CEL	Tumor	14.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	86_E220-Tn7_N.CEL	Adjacent_non_tumor	14.9	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	87_E229-Tp1_T.CEL	Tumor	4.5	1	TRUE	included
+PH_GSE183795	PH / GSE183795	88_E229-Tn7_N.CEL	Adjacent_non_tumor	4.5	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	89_E234-Tp1_T.CEL	Tumor	12.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	8_E122_Tn13.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	8_E28-Tn16_N.CEL	Adjacent_non_tumor	41.6	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	90_E234-Tn7_N.CEL	Adjacent_non_tumor	12.9	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	9_E33-Tc7_T.CEL	Tumor	NA	NA	FALSE	excluded_missing_survival
+PH_GSE183795	PH / GSE183795	E387T.CEL	Tumor	15.63333333	1	TRUE	included
+PH_GSE183795	PH / GSE183795	E480N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E480T.CEL	Tumor	27.6	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E494T.CEL	Tumor	26.86666667	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E504N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E504T.CEL	Tumor	24.96666667	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E505N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E505T.CEL	Tumor	4.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	E520T.CEL	Tumor	9.5	1	TRUE	included
+PH_GSE183795	PH / GSE183795	E523N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E523T.CEL	Tumor	20.5	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E527N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E527T.CEL	Tumor	14	1	TRUE	included
+PH_GSE183795	PH / GSE183795	E530N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E530T.CEL	Tumor	9.633333333	1	TRUE	included
+PH_GSE183795	PH / GSE183795	E532T.CEL	Tumor	2.066666667	1	TRUE	included
+PH_GSE183795	PH / GSE183795	E577N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E577T.CEL	Tumor	1.466666667	1	TRUE	included
+PH_GSE183795	PH / GSE183795	E580N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E580T.CEL	Tumor	11.93333333	1	TRUE	included
+PH_GSE183795	PH / GSE183795	E593T.CEL	Tumor	8.866666667	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E599T.CEL	Tumor	13.83333333	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E604N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E604T.CEL	Tumor	14.9	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E623N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E623T.CEL	Tumor	9.733333333	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E626T.CEL	Tumor	0.7	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E636N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E636T.CEL	Tumor	6.5	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E639T.CEL	Tumor	6.366666667	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E655T.CEL	Tumor	5.6	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E656N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E656T.CEL	Tumor	2.866666667	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E671N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E671T.CEL	Tumor	3.166666667	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E674N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E674T.CEL	Tumor	4.533333333	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E739T.CEL	Tumor	8.733333333	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E762T.CEL	Tumor	0.8	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E770N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E770T.CEL	Tumor	3.066666667	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E780N.CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	E780T.CEL	Tumor	0.4	0	TRUE	included
+PH_GSE183795	PH / GSE183795	E99Tp1.CEL	Tumor	14.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_01_3759_(HuGene-1_0-st-v1).CEL	Normal	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_02_6376_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_04_6483_(HuGene-1_0-st-v1).CEL	Normal	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_05_9233_(HuGene-1_0-st-v1).CEL	Tumor	9.5	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_08_9727_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	6.3	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_09_9728_(HuGene-1_0-st-v1).CEL	Tumor	6.3	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_10_13693_(HuGene-1_0-st-v1).CEL	Normal	NA	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_11_14694_(HuGene-1_0-st-v1).CEL	Tumor	0.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_12_17529_(HuGene-1_0-st-v1).CEL	Tumor	5.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_13_17530_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	9.8	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_14_17531_(HuGene-1_0-st-v1).CEL	Tumor	9.8	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_15_17797_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	5.3	NA	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_16_17798_(HuGene-1_0-st-v1).CEL	Tumor	5.3	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_17_18590_(HuGene-1_0-st-v1).CEL	Tumor	21.5	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_20_19926_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	14.2	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_21_19927_(HuGene-1_0-st-v1).CEL	Tumor	14.2	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_24_22505_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	32	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_25_22506_(HuGene-1_0-st-v1).CEL	Tumor	32	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_28_26172_(HuGene-1_0-st-v1).CEL	Tumor	22.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_29_26171_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	22.9	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_30_26576_(HuGene-1_0-st-v1).CEL	Tumor	45.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_31_27775_(HuGene-1_0-st-v1).CEL	Tumor	21.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_32_27880_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	42	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_33_27881_(HuGene-1_0-st-v1).CEL	Tumor	42	0	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_36_29102_(HuGene-1_0-st-v1).CEL	Tumor	38.3	0	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_37_29163_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	13.7	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_38_29164_(HuGene-1_0-st-v1).CEL	Tumor	13.7	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_39_29261_(HuGene-1_0-st-v1).CEL	Tumor	10.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_40_29818_(HuGene-1_0-st-v1).CEL	Tumor	21.3	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_41_29819_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	21.3	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_42_29826_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	9.3	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_43_29827_(HuGene-1_0-st-v1).CEL	Tumor	9.3	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_44_31262_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	19.9	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_45_31263_(HuGene-1_0-st-v1).CEL	Tumor	19.9	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_46_31392_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	70.8	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_47_31393_(HuGene-1_0-st-v1).CEL	Tumor	70.8	0	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_48_32018_(HuGene-1_0-st-v1).CEL	Tumor	68	0	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_49_32019_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	68	0	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_50_32175_(HuGene-1_0-st-v1).CEL	Tumor	67.7	0	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_55_34244_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	49.7	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_56_34245_(HuGene-1_0-st-v1).CEL	Tumor	49.7	1	TRUE	included
+PH_GSE183795	PH / GSE183795	Hussain_57_34434_(HuGene-1_0-st-v1).CEL	Adjacent_non_tumor	3.2	1	FALSE	excluded_non_tumor
+PH_GSE183795	PH / GSE183795	Hussain_58_34435_(HuGene-1_0-st-v1).CEL	Tumor	3.2	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711904	Tumor	51	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711905	Adjacent_non_tumor	51	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711906	Tumor	7	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711907	Adjacent_non_tumor	7	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711908	Tumor	3	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711909	Adjacent_non_tumor	3	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711910	Tumor	42	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711911	Adjacent_non_tumor	42	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711912	Tumor	NA	NA	FALSE	excluded_missing_survival
+Zhang_GSE28735	Zhang / GSE28735	GSM711913	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711914	Tumor	36	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711915	Adjacent_non_tumor	36	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711916	Tumor	2	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711917	Adjacent_non_tumor	2	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711918	Tumor	NA	NA	FALSE	excluded_missing_survival
+Zhang_GSE28735	Zhang / GSE28735	GSM711919	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711920	Tumor	NA	NA	FALSE	excluded_missing_survival
+Zhang_GSE28735	Zhang / GSE28735	GSM711921	Adjacent_non_tumor	NA	NA	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711922	Tumor	19	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711923	Adjacent_non_tumor	19	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711924	Tumor	13	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711925	Adjacent_non_tumor	13	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711926	Tumor	16	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711927	Adjacent_non_tumor	16	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711928	Tumor	41	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711929	Adjacent_non_tumor	41	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711930	Tumor	3	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711931	Adjacent_non_tumor	3	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711932	Tumor	12	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711933	Adjacent_non_tumor	12	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711934	Tumor	25	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711935	Adjacent_non_tumor	25	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711936	Tumor	38	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711937	Adjacent_non_tumor	38	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711938	Tumor	1	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711939	Adjacent_non_tumor	1	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711940	Tumor	13	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711941	Adjacent_non_tumor	13	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711942	Tumor	23	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711943	Adjacent_non_tumor	23	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711944	Tumor	11	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711945	Adjacent_non_tumor	11	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711946	Tumor	29	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711947	Adjacent_non_tumor	29	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711948	Tumor	28	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711949	Adjacent_non_tumor	28	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711950	Tumor	28	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711951	Adjacent_non_tumor	28	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711952	Tumor	14	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711953	Adjacent_non_tumor	14	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711954	Tumor	7	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711955	Adjacent_non_tumor	7	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711956	Tumor	28	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711957	Adjacent_non_tumor	28	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711958	Tumor	24	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711959	Adjacent_non_tumor	24	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711960	Tumor	24	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711961	Adjacent_non_tumor	24	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711962	Tumor	8	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711963	Adjacent_non_tumor	8	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711964	Tumor	22	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711965	Adjacent_non_tumor	22	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711966	Tumor	21	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711967	Adjacent_non_tumor	21	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711968	Tumor	21	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711969	Adjacent_non_tumor	21	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711970	Tumor	9	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711971	Adjacent_non_tumor	9	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711972	Tumor	17	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711973	Adjacent_non_tumor	17	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711974	Tumor	6	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711975	Adjacent_non_tumor	6	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711976	Tumor	16	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711977	Adjacent_non_tumor	16	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711978	Tumor	5	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711979	Adjacent_non_tumor	5	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711980	Tumor	11	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711981	Adjacent_non_tumor	11	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711982	Tumor	4	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711983	Adjacent_non_tumor	4	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711984	Tumor	10	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711985	Adjacent_non_tumor	10	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711986	Tumor	10	0	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711987	Adjacent_non_tumor	10	0	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711988	Tumor	15	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711989	Adjacent_non_tumor	15	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711990	Tumor	5	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711991	Adjacent_non_tumor	5	1	FALSE	excluded_non_tumor
+Zhang_GSE28735	Zhang / GSE28735	GSM711992	Tumor	13	1	TRUE	included
+Zhang_GSE28735	Zhang / GSE28735	GSM711993	Adjacent_non_tumor	13	1	FALSE	excluded_non_tumor

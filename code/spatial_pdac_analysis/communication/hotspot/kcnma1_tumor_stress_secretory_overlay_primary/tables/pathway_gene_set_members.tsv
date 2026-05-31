@@ -1,0 +1,11 @@
+pathway	gene	in_input_assay
+tumor_stress_secretory	LCN2	TRUE
+tumor_stress_secretory	SLPI	TRUE
+tumor_stress_secretory	S100A10	TRUE
+tumor_stress_secretory	S100P	TRUE
+tumor_stress_secretory	MMP7	TRUE
+tumor_stress_secretory	SPINK1	TRUE
+tumor_stress_secretory	CEACAM5	TRUE
+tumor_stress_secretory	MSLN	TRUE
+tumor_stress_secretory	KRT20	TRUE
+tumor_stress_secretory	KRT23	TRUE

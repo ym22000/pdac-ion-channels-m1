@@ -1,0 +1,12 @@
+cell_subsets	n_cells	pct_cells
+Tumor	43817	49.77
+Fibroblast	17537	19.92
+Immune	9070	10.3
+Ductal	6624	7.52
+Endothelial	4591	5.22
+Atypical_Ductal	3509	3.99
+Endocrine	1954	2.22
+SmoothMuscle	361	0.41
+NascentEndothelial	343	0.39
+Schwann	159	0.18
+Acinar	66	0.07

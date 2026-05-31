@@ -1,0 +1,3 @@
+module	components	all_components_in_sct
+KCNMA1_KCNMB1	KCNMA1+KCNMB1	TRUE
+KCNMA1_KCNMB4	KCNMA1+KCNMB4	TRUE

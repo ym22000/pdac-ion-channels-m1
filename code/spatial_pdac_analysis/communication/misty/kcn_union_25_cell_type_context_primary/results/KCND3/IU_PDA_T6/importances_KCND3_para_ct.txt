@@ -1,0 +1,8 @@
+target,imp
+Fibroblasts,9.62935724781095
+Monocytes,9.4658292110435
+TAM,9.139474928929978
+Endothelial_cells,9.24266734138088
+PVL,9.185635855400248
+Normal_Epithelial_cells,10.203120276070424
+Tumor_Epithelial_cells,9.610274671694865

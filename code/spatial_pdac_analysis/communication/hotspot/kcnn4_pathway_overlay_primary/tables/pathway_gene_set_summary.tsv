@@ -1,0 +1,4 @@
+pathway	n_genes_defined	n_genes_in_input_assay	genes_present	genes_missing
+Tumor_proliferation_rate	15	15	AURKA, AURKB, BUB1, CCNB1, CCND1, CCNE1, CDK2, CETN3, E2F1, ESCO2, MCM2, MCM6, MKI67, MYBL2, PLK1	
+ductal_tumoral_epithelial	10	10	EPCAM, KRT8, KRT18, KRT7, CLDN4, MUC1, SOX9, ELF3, TACSTD2, TSPAN8	
+tumor_stress_secretory	10	10	LCN2, SLPI, S100A10, S100P, MMP7, SPINK1, CEACAM5, MSLN, KRT20, KRT23	

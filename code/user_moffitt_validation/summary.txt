@@ -1,0 +1,30 @@
+USER validation against Moffitt stromal states
+Date: 2026-05-29
+
+Inputs used locally:
+- gene_sorted-naivedata_scp.mtx
+- naivedata_scp.genes.csv
+- naivedata_scp.barcodes.csv
+- combinenaivedata-reprocessed-clean-detailed-annotations.tsv
+- combinenaivedata-reprocessed-clean-detailed-UMAP.tsv
+- Moffitt_SuppData1_CellType2_Markers.xlsx
+
+USER resource provenance:
+- Preprint: https://www.biorxiv.org/content/10.1101/2020.08.25.267336v1.full
+- Code repository: https://github.com/karthikj89/humanpdac
+- Interactive visualization: Single Cell Portal
+
+Cleaning logic:
+- start from USER cells already annotated as Fibroblast
+- recluster the fibroblast compartment from scratch
+- project Moffitt top-30 stromal signatures
+- assign each USER fibro cluster to the best supported Moffitt label
+- keep only myCAF, iCAF, csCAF and qPSC/smPSC-like clusters
+- merge qPSC and smPSC into a single PSC category for the cleaned validation view
+
+Total USER cells: 88031
+Fibroblast cells entering the Seurat workflow: 17537
+Fibroblast clusters before cleaning: 14
+Fibroblast cells retained after cleaning: 14267
+Retained clean states: myCAF, iCAF, csCAF, PSC
+Selected marker summaries: CXCL14, ACTA2, C7, FAP, IL11, CXCL12, PDGFRA

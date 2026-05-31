@@ -1,0 +1,26 @@
+gene	Test1_Activated_vs_Normal_DESeq2	Test2_Subtype_OneVsRest_DESeq2	Test3_Subtype_Hurdle_Mixed	Test4_Subtype_MAST	n_methods	methods_present
+KCNA5	TRUE	TRUE	TRUE	TRUE	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNA7	FALSE	FALSE	TRUE	TRUE	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNAB1	TRUE	TRUE	TRUE	TRUE	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNAB2	FALSE	FALSE	FALSE	TRUE	1	Test4_Subtype_MAST
+KCNB1	TRUE	FALSE	FALSE	FALSE	1	Test1_Activated_vs_Normal_DESeq2
+KCNC4	TRUE	TRUE	TRUE	TRUE	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCND2	FALSE	FALSE	TRUE	TRUE	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCND3	TRUE	TRUE	TRUE	TRUE	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNE4	TRUE	TRUE	TRUE	TRUE	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNJ15	FALSE	FALSE	TRUE	TRUE	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNJ16	FALSE	FALSE	FALSE	TRUE	1	Test4_Subtype_MAST
+KCNJ8	TRUE	TRUE	TRUE	TRUE	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNK1	FALSE	FALSE	TRUE	TRUE	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNK15	FALSE	FALSE	TRUE	TRUE	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNK17	TRUE	TRUE	TRUE	TRUE	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNK3	FALSE	TRUE	TRUE	TRUE	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNK6	TRUE	TRUE	TRUE	TRUE	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNMA1	TRUE	TRUE	TRUE	TRUE	4	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNMB1	FALSE	TRUE	TRUE	TRUE	3	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNMB4	FALSE	FALSE	TRUE	TRUE	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNN3	TRUE	FALSE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNN4	FALSE	FALSE	TRUE	TRUE	2	Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNQ4	TRUE	TRUE	FALSE	FALSE	2	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2
+KCNS3	TRUE	FALSE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST
+KCNT2	TRUE	FALSE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed; Test4_Subtype_MAST

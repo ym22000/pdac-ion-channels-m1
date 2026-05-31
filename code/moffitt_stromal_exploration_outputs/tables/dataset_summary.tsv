@@ -1,0 +1,9 @@
+metric	value
+n_cells	21469
+n_genes	16972
+n_samples	40
+n_datasets	3
+n_celltype2_labels	8
+n_reductions	4
+pct_normal_state	22.68
+pct_activated_state	77.32

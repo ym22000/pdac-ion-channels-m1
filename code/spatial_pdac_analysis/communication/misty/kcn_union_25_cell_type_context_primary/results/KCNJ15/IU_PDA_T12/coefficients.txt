@@ -1,0 +1,2 @@
+target intercept intra juxta_ct para_ct p.intercept p.intra p.juxta_ct p.para_ct
+KCNJ15 -0.00939838529794632 0.524149554454348 0.172316393522976 0.336098311286458 NA 0 0.00015969734103094 0

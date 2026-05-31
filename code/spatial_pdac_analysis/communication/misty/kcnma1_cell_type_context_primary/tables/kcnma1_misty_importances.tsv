@@ -1,0 +1,250 @@
+sample	view	Predictor	Target	Importance	Predictor_original
+IU_PDA_T1	intra	Fibroblasts	KCNMA1	18.4845958612992	Fibroblasts
+IU_PDA_T1	intra	Monocytes	KCNMA1	4.01756028413894	Monocytes
+IU_PDA_T1	intra	B_cells	KCNMA1	7.64613435533107	B cells
+IU_PDA_T1	intra	TAM	KCNMA1	13.4116331128024	TAM
+IU_PDA_T1	intra	Hepatocytes	KCNMA1	0.021409731654487	Hepatocytes
+IU_PDA_T1	intra	Endothelial_cells	KCNMA1	0.567704958600457	Endothelial cells
+IU_PDA_T1	intra	PVL	KCNMA1	1.3593336025937	PVL
+IU_PDA_T1	intra	T_NK_cells	KCNMA1	0.0406476512415718	T-NK cells
+IU_PDA_T1	intra	Tumor_Epithelial_cells	KCNMA1	7.81971529251813	Tumor Epithelial cells
+IU_PDA_T1	juxta_ct	Fibroblasts	KCNMA1	34.8521806956635	Fibroblasts
+IU_PDA_T1	juxta_ct	Monocytes	KCNMA1	14.993780641685	Monocytes
+IU_PDA_T1	juxta_ct	B_cells	KCNMA1	19.4368310770445	B cells
+IU_PDA_T1	juxta_ct	TAM	KCNMA1	27.2414377709058	TAM
+IU_PDA_T1	juxta_ct	Hepatocytes	KCNMA1	0.632238973401032	Hepatocytes
+IU_PDA_T1	juxta_ct	Endothelial_cells	KCNMA1	2.68997686474251	Endothelial cells
+IU_PDA_T1	juxta_ct	PVL	KCNMA1	0.861170371621129	PVL
+IU_PDA_T1	juxta_ct	T_NK_cells	KCNMA1	0.739497049919013	T-NK cells
+IU_PDA_T1	juxta_ct	Tumor_Epithelial_cells	KCNMA1	18.2624523324409	Tumor Epithelial cells
+IU_PDA_T1	para_ct	Fibroblasts	KCNMA1	19.4488280465029	Fibroblasts
+IU_PDA_T1	para_ct	Monocytes	KCNMA1	18.885169635394	Monocytes
+IU_PDA_T1	para_ct	B_cells	KCNMA1	20.2095485891436	B cells
+IU_PDA_T1	para_ct	TAM	KCNMA1	19.9556069520741	TAM
+IU_PDA_T1	para_ct	Hepatocytes	KCNMA1	19.7133331030068	Hepatocytes
+IU_PDA_T1	para_ct	Endothelial_cells	KCNMA1	21.4850732420578	Endothelial cells
+IU_PDA_T1	para_ct	PVL	KCNMA1	19.2229217054293	PVL
+IU_PDA_T1	para_ct	T_NK_cells	KCNMA1	20.0290516440067	T-NK cells
+IU_PDA_T1	para_ct	Tumor_Epithelial_cells	KCNMA1	19.1241699385066	Tumor Epithelial cells
+IU_PDA_T10	intra	Fibroblasts	KCNMA1	9.28467018365168	Fibroblasts
+IU_PDA_T10	intra	Monocytes	KCNMA1	2.06145020129868	Monocytes
+IU_PDA_T10	intra	B_cells	KCNMA1	5.71817477106013	B cells
+IU_PDA_T10	intra	TAM	KCNMA1	5.35823549136732	TAM
+IU_PDA_T10	intra	Endothelial_cells	KCNMA1	0.0127241966468788	Endothelial cells
+IU_PDA_T10	intra	PVL	KCNMA1	0.210447456966478	PVL
+IU_PDA_T10	intra	T_NK_cells	KCNMA1	0.999810873334607	T-NK cells
+IU_PDA_T10	intra	Tumor_Epithelial_cells	KCNMA1	9.02004595264245	Tumor Epithelial cells
+IU_PDA_T10	juxta_ct	Fibroblasts	KCNMA1	12.8584440130073	Fibroblasts
+IU_PDA_T10	juxta_ct	Monocytes	KCNMA1	5.98277043789435	Monocytes
+IU_PDA_T10	juxta_ct	B_cells	KCNMA1	9.24437345366172	B cells
+IU_PDA_T10	juxta_ct	TAM	KCNMA1	12.1741152410377	TAM
+IU_PDA_T10	juxta_ct	Endothelial_cells	KCNMA1	0.887352753861806	Endothelial cells
+IU_PDA_T10	juxta_ct	PVL	KCNMA1	1.42933545224008	PVL
+IU_PDA_T10	juxta_ct	T_NK_cells	KCNMA1	1.16990687817605	T-NK cells
+IU_PDA_T10	juxta_ct	Tumor_Epithelial_cells	KCNMA1	11.323052591856	Tumor Epithelial cells
+IU_PDA_T10	para_ct	Fibroblasts	KCNMA1	9.15956009085328	Fibroblasts
+IU_PDA_T10	para_ct	Monocytes	KCNMA1	8.16977504824919	Monocytes
+IU_PDA_T10	para_ct	B_cells	KCNMA1	8.28993292685652	B cells
+IU_PDA_T10	para_ct	TAM	KCNMA1	9.07280295125741	TAM
+IU_PDA_T10	para_ct	Endothelial_cells	KCNMA1	9.1659490169338	Endothelial cells
+IU_PDA_T10	para_ct	PVL	KCNMA1	8.25315455080167	PVL
+IU_PDA_T10	para_ct	T_NK_cells	KCNMA1	8.22823703705551	T-NK cells
+IU_PDA_T10	para_ct	Tumor_Epithelial_cells	KCNMA1	7.68968475297073	Tumor Epithelial cells
+IU_PDA_T11	intra	Fibroblasts	KCNMA1	56.7678858391937	Fibroblasts
+IU_PDA_T11	intra	Monocytes	KCNMA1	5.46996084260762	Monocytes
+IU_PDA_T11	intra	B_cells	KCNMA1	0.566650851167356	B cells
+IU_PDA_T11	intra	TAM	KCNMA1	25.1809128703905	TAM
+IU_PDA_T11	intra	Endothelial_cells	KCNMA1	4.60599291879505	Endothelial cells
+IU_PDA_T11	intra	PVL	KCNMA1	18.3843612418166	PVL
+IU_PDA_T11	intra	Tumor_Epithelial_cells	KCNMA1	41.3145405657401	Tumor Epithelial cells
+IU_PDA_T11	juxta_ct	Fibroblasts	KCNMA1	89.2504481066521	Fibroblasts
+IU_PDA_T11	juxta_ct	Monocytes	KCNMA1	18.6113789772934	Monocytes
+IU_PDA_T11	juxta_ct	B_cells	KCNMA1	2.17697390628582	B cells
+IU_PDA_T11	juxta_ct	TAM	KCNMA1	62.7779576407688	TAM
+IU_PDA_T11	juxta_ct	Endothelial_cells	KCNMA1	17.9143970790477	Endothelial cells
+IU_PDA_T11	juxta_ct	PVL	KCNMA1	36.852380313686	PVL
+IU_PDA_T11	juxta_ct	Tumor_Epithelial_cells	KCNMA1	79.3797534143327	Tumor Epithelial cells
+IU_PDA_T11	para_ct	Fibroblasts	KCNMA1	79.8612224097604	Fibroblasts
+IU_PDA_T11	para_ct	Monocytes	KCNMA1	73.3929538144476	Monocytes
+IU_PDA_T11	para_ct	B_cells	KCNMA1	81.6281233585361	B cells
+IU_PDA_T11	para_ct	TAM	KCNMA1	72.8149984336005	TAM
+IU_PDA_T11	para_ct	Endothelial_cells	KCNMA1	74.2859566841384	Endothelial cells
+IU_PDA_T11	para_ct	PVL	KCNMA1	79.0083515075824	PVL
+IU_PDA_T11	para_ct	Tumor_Epithelial_cells	KCNMA1	84.7673953672168	Tumor Epithelial cells
+IU_PDA_T12	intra	Fibroblasts	KCNMA1	122.017199796603	Fibroblasts
+IU_PDA_T12	intra	Monocytes	KCNMA1	11.6244333733454	Monocytes
+IU_PDA_T12	intra	B_cells	KCNMA1	79.5439998145013	B cells
+IU_PDA_T12	intra	TAM	KCNMA1	119.485392188617	TAM
+IU_PDA_T12	intra	Endothelial_cells	KCNMA1	15.9155084710419	Endothelial cells
+IU_PDA_T12	intra	PVL	KCNMA1	9.84282343770207	PVL
+IU_PDA_T12	intra	Normal_Epithelial_cells	KCNMA1	0.702782381038149	Normal Epithelial cells
+IU_PDA_T12	intra	T_NK_cells	KCNMA1	1.26697030427332	T-NK cells
+IU_PDA_T12	intra	Tumor_Epithelial_cells	KCNMA1	83.0101574010674	Tumor Epithelial cells
+IU_PDA_T12	juxta_ct	Fibroblasts	KCNMA1	127.453414963212	Fibroblasts
+IU_PDA_T12	juxta_ct	Monocytes	KCNMA1	31.7336067823642	Monocytes
+IU_PDA_T12	juxta_ct	B_cells	KCNMA1	112.214547182184	B cells
+IU_PDA_T12	juxta_ct	TAM	KCNMA1	145.353905299724	TAM
+IU_PDA_T12	juxta_ct	Endothelial_cells	KCNMA1	44.2247212606817	Endothelial cells
+IU_PDA_T12	juxta_ct	PVL	KCNMA1	18.6877909034602	PVL
+IU_PDA_T12	juxta_ct	Normal_Epithelial_cells	KCNMA1	3.37604659134856	Normal Epithelial cells
+IU_PDA_T12	juxta_ct	T_NK_cells	KCNMA1	4.09951287953387	T-NK cells
+IU_PDA_T12	juxta_ct	Tumor_Epithelial_cells	KCNMA1	121.538952109575	Tumor Epithelial cells
+IU_PDA_T12	para_ct	Fibroblasts	KCNMA1	73.5994481402547	Fibroblasts
+IU_PDA_T12	para_ct	Monocytes	KCNMA1	76.2297609176224	Monocytes
+IU_PDA_T12	para_ct	B_cells	KCNMA1	76.9107492820468	B cells
+IU_PDA_T12	para_ct	TAM	KCNMA1	85.6535025867502	TAM
+IU_PDA_T12	para_ct	Endothelial_cells	KCNMA1	73.5623443793664	Endothelial cells
+IU_PDA_T12	para_ct	PVL	KCNMA1	82.8687963651891	PVL
+IU_PDA_T12	para_ct	Normal_Epithelial_cells	KCNMA1	74.024110068352	Normal Epithelial cells
+IU_PDA_T12	para_ct	T_NK_cells	KCNMA1	75.7222955020213	T-NK cells
+IU_PDA_T12	para_ct	Tumor_Epithelial_cells	KCNMA1	75.5269948317926	Tumor Epithelial cells
+IU_PDA_T2	intra	Fibroblasts	KCNMA1	15.0561662295352	Fibroblasts
+IU_PDA_T2	intra	Monocytes	KCNMA1	1.56470821246609	Monocytes
+IU_PDA_T2	intra	B_cells	KCNMA1	7.76075462176567	B cells
+IU_PDA_T2	intra	TAM	KCNMA1	9.9105694579907	TAM
+IU_PDA_T2	intra	Hepatocytes	KCNMA1	0.013765779445959	Hepatocytes
+IU_PDA_T2	intra	Endothelial_cells	KCNMA1	0.0332178711085409	Endothelial cells
+IU_PDA_T2	intra	PVL	KCNMA1	0.238333309651966	PVL
+IU_PDA_T2	intra	Normal_Epithelial_cells	KCNMA1	0.0194658248298393	Normal Epithelial cells
+IU_PDA_T2	intra	T_NK_cells	KCNMA1	0.227703114941519	T-NK cells
+IU_PDA_T2	intra	Tumor_Epithelial_cells	KCNMA1	14.6613778312405	Tumor Epithelial cells
+IU_PDA_T2	juxta_ct	Fibroblasts	KCNMA1	25.2656218980575	Fibroblasts
+IU_PDA_T2	juxta_ct	Monocytes	KCNMA1	3.90095113390798	Monocytes
+IU_PDA_T2	juxta_ct	B_cells	KCNMA1	16.0521102967705	B cells
+IU_PDA_T2	juxta_ct	TAM	KCNMA1	20.7386910618064	TAM
+IU_PDA_T2	juxta_ct	Hepatocytes	KCNMA1	0.246133151316098	Hepatocytes
+IU_PDA_T2	juxta_ct	Endothelial_cells	KCNMA1	0.379671483658536	Endothelial cells
+IU_PDA_T2	juxta_ct	PVL	KCNMA1	0.861160135603781	PVL
+IU_PDA_T2	juxta_ct	Normal_Epithelial_cells	KCNMA1	0.0304958901049689	Normal Epithelial cells
+IU_PDA_T2	juxta_ct	T_NK_cells	KCNMA1	0.715043926563374	T-NK cells
+IU_PDA_T2	juxta_ct	Tumor_Epithelial_cells	KCNMA1	23.6433370786562	Tumor Epithelial cells
+IU_PDA_T2	para_ct	Fibroblasts	KCNMA1	16.6472243266901	Fibroblasts
+IU_PDA_T2	para_ct	Monocytes	KCNMA1	18.0942170141335	Monocytes
+IU_PDA_T2	para_ct	B_cells	KCNMA1	16.4710975561987	B cells
+IU_PDA_T2	para_ct	TAM	KCNMA1	17.652048767194	TAM
+IU_PDA_T2	para_ct	Hepatocytes	KCNMA1	15.8953754314093	Hepatocytes
+IU_PDA_T2	para_ct	Endothelial_cells	KCNMA1	17.0674158816438	Endothelial cells
+IU_PDA_T2	para_ct	PVL	KCNMA1	17.3029028726607	PVL
+IU_PDA_T2	para_ct	Normal_Epithelial_cells	KCNMA1	17.2089548309118	Normal Epithelial cells
+IU_PDA_T2	para_ct	T_NK_cells	KCNMA1	16.276677989589	T-NK cells
+IU_PDA_T2	para_ct	Tumor_Epithelial_cells	KCNMA1	17.5900998874426	Tumor Epithelial cells
+IU_PDA_T3	intra	Fibroblasts	KCNMA1	39.8095848189597	Fibroblasts
+IU_PDA_T3	intra	Monocytes	KCNMA1	19.6802817738331	Monocytes
+IU_PDA_T3	intra	B_cells	KCNMA1	35.0401469048806	B cells
+IU_PDA_T3	intra	TAM	KCNMA1	18.9192709482698	TAM
+IU_PDA_T3	intra	Endothelial_cells	KCNMA1	3.18987159802743	Endothelial cells
+IU_PDA_T3	intra	PVL	KCNMA1	10.6688293694224	PVL
+IU_PDA_T3	intra	T_NK_cells	KCNMA1	2.1152859711885	T-NK cells
+IU_PDA_T3	intra	Tumor_Epithelial_cells	KCNMA1	21.7021781221667	Tumor Epithelial cells
+IU_PDA_T3	juxta_ct	Fibroblasts	KCNMA1	54.2889408549382	Fibroblasts
+IU_PDA_T3	juxta_ct	Monocytes	KCNMA1	42.9443507393953	Monocytes
+IU_PDA_T3	juxta_ct	B_cells	KCNMA1	49.6880418064252	B cells
+IU_PDA_T3	juxta_ct	TAM	KCNMA1	37.3764434291412	TAM
+IU_PDA_T3	juxta_ct	Endothelial_cells	KCNMA1	10.7067707387196	Endothelial cells
+IU_PDA_T3	juxta_ct	PVL	KCNMA1	15.241351577515	PVL
+IU_PDA_T3	juxta_ct	T_NK_cells	KCNMA1	8.13109601683976	T-NK cells
+IU_PDA_T3	juxta_ct	Tumor_Epithelial_cells	KCNMA1	31.0114064575478	Tumor Epithelial cells
+IU_PDA_T3	para_ct	Fibroblasts	KCNMA1	39.2035104234213	Fibroblasts
+IU_PDA_T3	para_ct	Monocytes	KCNMA1	39.15085845105	Monocytes
+IU_PDA_T3	para_ct	B_cells	KCNMA1	38.4677646274238	B cells
+IU_PDA_T3	para_ct	TAM	KCNMA1	38.5597391554547	TAM
+IU_PDA_T3	para_ct	Endothelial_cells	KCNMA1	38.4206612448851	Endothelial cells
+IU_PDA_T3	para_ct	PVL	KCNMA1	38.5757413435958	PVL
+IU_PDA_T3	para_ct	T_NK_cells	KCNMA1	39.4698140902232	T-NK cells
+IU_PDA_T3	para_ct	Tumor_Epithelial_cells	KCNMA1	39.2464509893221	Tumor Epithelial cells
+IU_PDA_T4	intra	Fibroblasts	KCNMA1	10.3937012702604	Fibroblasts
+IU_PDA_T4	intra	Monocytes	KCNMA1	3.53772150488562	Monocytes
+IU_PDA_T4	intra	B_cells	KCNMA1	0.0185888509314599	B cells
+IU_PDA_T4	intra	TAM	KCNMA1	7.13021045689752	TAM
+IU_PDA_T4	intra	Hepatocytes	KCNMA1	0.000505000305262403	Hepatocytes
+IU_PDA_T4	intra	Endothelial_cells	KCNMA1	0.638172295779876	Endothelial cells
+IU_PDA_T4	intra	PVL	KCNMA1	1.54914595343505	PVL
+IU_PDA_T4	intra	T_NK_cells	KCNMA1	0.00454011652627918	T-NK cells
+IU_PDA_T4	intra	Tumor_Epithelial_cells	KCNMA1	11.4424091960697	Tumor Epithelial cells
+IU_PDA_T4	juxta_ct	Fibroblasts	KCNMA1	13.2535822595139	Fibroblasts
+IU_PDA_T4	juxta_ct	Monocytes	KCNMA1	7.27464449303382	Monocytes
+IU_PDA_T4	juxta_ct	B_cells	KCNMA1	0.287563989415548	B cells
+IU_PDA_T4	juxta_ct	TAM	KCNMA1	13.1188550659059	TAM
+IU_PDA_T4	juxta_ct	Hepatocytes	KCNMA1	0.0106825834396355	Hepatocytes
+IU_PDA_T4	juxta_ct	Endothelial_cells	KCNMA1	1.68764814280637	Endothelial cells
+IU_PDA_T4	juxta_ct	PVL	KCNMA1	2.79403465312129	PVL
+IU_PDA_T4	juxta_ct	T_NK_cells	KCNMA1	0.181630273699978	T-NK cells
+IU_PDA_T4	juxta_ct	Tumor_Epithelial_cells	KCNMA1	14.2923625445803	Tumor Epithelial cells
+IU_PDA_T4	para_ct	Fibroblasts	KCNMA1	7.76774518595362	Fibroblasts
+IU_PDA_T4	para_ct	Monocytes	KCNMA1	6.94256210747252	Monocytes
+IU_PDA_T4	para_ct	B_cells	KCNMA1	7.39933419558926	B cells
+IU_PDA_T4	para_ct	TAM	KCNMA1	7.45058542367629	TAM
+IU_PDA_T4	para_ct	Hepatocytes	KCNMA1	7.02953019770813	Hepatocytes
+IU_PDA_T4	para_ct	Endothelial_cells	KCNMA1	7.11222589292478	Endothelial cells
+IU_PDA_T4	para_ct	PVL	KCNMA1	6.63499807125251	PVL
+IU_PDA_T4	para_ct	T_NK_cells	KCNMA1	8.44032310155739	T-NK cells
+IU_PDA_T4	para_ct	Tumor_Epithelial_cells	KCNMA1	7.20766414393672	Tumor Epithelial cells
+IU_PDA_T6	intra	Fibroblasts	KCNMA1	9.28248898331878	Fibroblasts
+IU_PDA_T6	intra	Monocytes	KCNMA1	0.120743506978982	Monocytes
+IU_PDA_T6	intra	TAM	KCNMA1	5.38758846183742	TAM
+IU_PDA_T6	intra	Endothelial_cells	KCNMA1	0.0369685908599961	Endothelial cells
+IU_PDA_T6	intra	PVL	KCNMA1	0.00883104545048988	PVL
+IU_PDA_T6	intra	Normal_Epithelial_cells	KCNMA1	0.189628497680675	Normal Epithelial cells
+IU_PDA_T6	intra	Tumor_Epithelial_cells	KCNMA1	8.51238187917094	Tumor Epithelial cells
+IU_PDA_T6	juxta_ct	Fibroblasts	KCNMA1	14.4463339120713	Fibroblasts
+IU_PDA_T6	juxta_ct	Monocytes	KCNMA1	0.994171313670311	Monocytes
+IU_PDA_T6	juxta_ct	TAM	KCNMA1	9.98815191195449	TAM
+IU_PDA_T6	juxta_ct	Endothelial_cells	KCNMA1	0.225126712475027	Endothelial cells
+IU_PDA_T6	juxta_ct	PVL	KCNMA1	0.0460037904609392	PVL
+IU_PDA_T6	juxta_ct	Normal_Epithelial_cells	KCNMA1	0.317963632558484	Normal Epithelial cells
+IU_PDA_T6	juxta_ct	Tumor_Epithelial_cells	KCNMA1	13.4446031926329	Tumor Epithelial cells
+IU_PDA_T6	para_ct	Fibroblasts	KCNMA1	26.3356115053907	Fibroblasts
+IU_PDA_T6	para_ct	Monocytes	KCNMA1	19.7149443994045	Monocytes
+IU_PDA_T6	para_ct	TAM	KCNMA1	21.1519959206663	TAM
+IU_PDA_T6	para_ct	Endothelial_cells	KCNMA1	20.4100608404967	Endothelial cells
+IU_PDA_T6	para_ct	PVL	KCNMA1	19.2594256551071	PVL
+IU_PDA_T6	para_ct	Normal_Epithelial_cells	KCNMA1	22.6751151629756	Normal Epithelial cells
+IU_PDA_T6	para_ct	Tumor_Epithelial_cells	KCNMA1	21.119742343211	Tumor Epithelial cells
+IU_PDA_T8	intra	Fibroblasts	KCNMA1	7.62569282119482	Fibroblasts
+IU_PDA_T8	intra	Monocytes	KCNMA1	0.489906383502117	Monocytes
+IU_PDA_T8	intra	B_cells	KCNMA1	5.18511272347736	B cells
+IU_PDA_T8	intra	TAM	KCNMA1	6.06325727740751	TAM
+IU_PDA_T8	intra	Hepatocytes	KCNMA1	0.000576568868479374	Hepatocytes
+IU_PDA_T8	intra	Endothelial_cells	KCNMA1	0.0154425210862627	Endothelial cells
+IU_PDA_T8	intra	PVL	KCNMA1	0.00773669339231511	PVL
+IU_PDA_T8	intra	Tumor_Epithelial_cells	KCNMA1	8.14636220365401	Tumor Epithelial cells
+IU_PDA_T8	juxta_ct	Fibroblasts	KCNMA1	12.6757086493561	Fibroblasts
+IU_PDA_T8	juxta_ct	Monocytes	KCNMA1	1.31998449345545	Monocytes
+IU_PDA_T8	juxta_ct	B_cells	KCNMA1	9.91975901202446	B cells
+IU_PDA_T8	juxta_ct	TAM	KCNMA1	11.6662405452299	TAM
+IU_PDA_T8	juxta_ct	Hepatocytes	KCNMA1	0.00412881481171034	Hepatocytes
+IU_PDA_T8	juxta_ct	Endothelial_cells	KCNMA1	0.964046984599836	Endothelial cells
+IU_PDA_T8	juxta_ct	PVL	KCNMA1	0.272558350547736	PVL
+IU_PDA_T8	juxta_ct	Tumor_Epithelial_cells	KCNMA1	13.1237042605832	Tumor Epithelial cells
+IU_PDA_T8	para_ct	Fibroblasts	KCNMA1	11.4919961682265	Fibroblasts
+IU_PDA_T8	para_ct	Monocytes	KCNMA1	12.2563803857694	Monocytes
+IU_PDA_T8	para_ct	B_cells	KCNMA1	12.4409026993972	B cells
+IU_PDA_T8	para_ct	TAM	KCNMA1	12.8405732813674	TAM
+IU_PDA_T8	para_ct	Hepatocytes	KCNMA1	11.1768736573478	Hepatocytes
+IU_PDA_T8	para_ct	Endothelial_cells	KCNMA1	11.666906099179	Endothelial cells
+IU_PDA_T8	para_ct	PVL	KCNMA1	12.8912134346112	PVL
+IU_PDA_T8	para_ct	Tumor_Epithelial_cells	KCNMA1	12.9766416436587	Tumor Epithelial cells
+IU_PDA_T9	intra	Fibroblasts	KCNMA1	32.6136026064036	Fibroblasts
+IU_PDA_T9	intra	Monocytes	KCNMA1	22.5827195575563	Monocytes
+IU_PDA_T9	intra	B_cells	KCNMA1	2.2071893231724	B cells
+IU_PDA_T9	intra	TAM	KCNMA1	12.3830142510053	TAM
+IU_PDA_T9	intra	Endothelial_cells	KCNMA1	5.49960000686152	Endothelial cells
+IU_PDA_T9	intra	PVL	KCNMA1	13.50713201727	PVL
+IU_PDA_T9	intra	T_NK_cells	KCNMA1	3.76774994645938	T-NK cells
+IU_PDA_T9	intra	Tumor_Epithelial_cells	KCNMA1	22.6782879880021	Tumor Epithelial cells
+IU_PDA_T9	juxta_ct	Fibroblasts	KCNMA1	64.2780828727296	Fibroblasts
+IU_PDA_T9	juxta_ct	Monocytes	KCNMA1	60.3533316683522	Monocytes
+IU_PDA_T9	juxta_ct	B_cells	KCNMA1	4.49595126200297	B cells
+IU_PDA_T9	juxta_ct	TAM	KCNMA1	44.2054352005309	TAM
+IU_PDA_T9	juxta_ct	Endothelial_cells	KCNMA1	16.34025032812	Endothelial cells
+IU_PDA_T9	juxta_ct	PVL	KCNMA1	19.4879694398819	PVL
+IU_PDA_T9	juxta_ct	T_NK_cells	KCNMA1	13.7931864026547	T-NK cells
+IU_PDA_T9	juxta_ct	Tumor_Epithelial_cells	KCNMA1	52.2855346056353	Tumor Epithelial cells
+IU_PDA_T9	para_ct	Fibroblasts	KCNMA1	51.9848825355011	Fibroblasts
+IU_PDA_T9	para_ct	Monocytes	KCNMA1	49.842107741606	Monocytes
+IU_PDA_T9	para_ct	B_cells	KCNMA1	50.8312961826572	B cells
+IU_PDA_T9	para_ct	TAM	KCNMA1	52.0843760841236	TAM
+IU_PDA_T9	para_ct	Endothelial_cells	KCNMA1	49.2982440394417	Endothelial cells
+IU_PDA_T9	para_ct	PVL	KCNMA1	50.5819829939103	PVL
+IU_PDA_T9	para_ct	T_NK_cells	KCNMA1	53.7428346244179	T-NK cells
+IU_PDA_T9	para_ct	Tumor_Epithelial_cells	KCNMA1	48.6094533202934	Tumor Epithelial cells

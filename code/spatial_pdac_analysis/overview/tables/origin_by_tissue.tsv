@@ -1,0 +1,31 @@
+orig.ident	Origin	n_spots	frac_spots
+IU_PDA_HM10	Liver	2348	1
+IU_PDA_HM11	Liver	3931	1
+IU_PDA_HM12	Liver	2961	1
+IU_PDA_HM13	Liver	2182	1
+IU_PDA_HM2	Liver	2478	1
+IU_PDA_HM2_2	Liver	959	1
+IU_PDA_HM3	Liver	1176	1
+IU_PDA_HM4	Liver	1841	1
+IU_PDA_HM5	Liver	3038	1
+IU_PDA_HM6	Liver	1666	1
+IU_PDA_HM8	Liver	4032	1
+IU_PDA_HM9	Liver	1908	1
+IU_PDA_LNM10	Lymph node	4147	1
+IU_PDA_LNM12	Lymph node	3213	1
+IU_PDA_LNM6	Lymph node	3745	1
+IU_PDA_LNM7	Lymph node	3186	1
+IU_PDA_LNM8	Lymph node	3407	1
+IU_PDA_NP10	Normal Pancreas	2966	1
+IU_PDA_NP11	Normal Pancreas	3859	1
+IU_PDA_NP2	Normal Pancreas	2995	1
+IU_PDA_T1	Pancreas	3530	1
+IU_PDA_T10	Pancreas	2714	1
+IU_PDA_T11	Pancreas	2777	1
+IU_PDA_T12	Pancreas	3642	1
+IU_PDA_T2	Pancreas	4118	1
+IU_PDA_T3	Pancreas	4354	1
+IU_PDA_T4	Pancreas	3621	1
+IU_PDA_T6	Pancreas	3397	1
+IU_PDA_T8	Pancreas	3779	1
+IU_PDA_T9	Pancreas	3526	1

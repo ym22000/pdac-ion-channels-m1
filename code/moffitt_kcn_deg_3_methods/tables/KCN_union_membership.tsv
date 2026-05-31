@@ -1,0 +1,24 @@
+gene	Test1_Activated_vs_Normal_DESeq2	Test2_Subtype_OneVsRest_DESeq2	Test3_Subtype_Hurdle_Mixed	n_methods	methods_present
+KCNA5	TRUE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNA7	FALSE	FALSE	TRUE	1	Test3_Subtype_Hurdle_Mixed
+KCNAB1	TRUE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNB1	TRUE	FALSE	FALSE	1	Test1_Activated_vs_Normal_DESeq2
+KCNC4	TRUE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCND2	FALSE	FALSE	TRUE	1	Test3_Subtype_Hurdle_Mixed
+KCND3	TRUE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNE4	TRUE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNJ15	FALSE	FALSE	TRUE	1	Test3_Subtype_Hurdle_Mixed
+KCNJ8	TRUE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNK1	FALSE	FALSE	TRUE	1	Test3_Subtype_Hurdle_Mixed
+KCNK15	FALSE	FALSE	TRUE	1	Test3_Subtype_Hurdle_Mixed
+KCNK17	TRUE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNK3	FALSE	TRUE	TRUE	2	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNK6	TRUE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNMA1	TRUE	TRUE	TRUE	3	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNMB1	FALSE	TRUE	TRUE	2	Test2_Subtype_OneVsRest_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNMB4	FALSE	FALSE	TRUE	1	Test3_Subtype_Hurdle_Mixed
+KCNN3	TRUE	FALSE	TRUE	2	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNN4	FALSE	FALSE	TRUE	1	Test3_Subtype_Hurdle_Mixed
+KCNQ4	TRUE	TRUE	FALSE	2	Test1_Activated_vs_Normal_DESeq2; Test2_Subtype_OneVsRest_DESeq2
+KCNS3	TRUE	FALSE	TRUE	2	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed
+KCNT2	TRUE	FALSE	TRUE	2	Test1_Activated_vs_Normal_DESeq2; Test3_Subtype_Hurdle_Mixed

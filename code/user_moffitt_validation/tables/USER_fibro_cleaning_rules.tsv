@@ -1,0 +1,15 @@
+seurat_clusters	moffitt_label	clean_state	annotation_confidence	overlap_n	score_gap	cleaning_reason
+0	myCAF	myCAF	medium	3	0.522078349504732	Retained for the four-state fibroblast validation panel
+1	Myocyte	Excluded	low	4	0.0319267876853735	Removed because the dominant projected identity falls outside the four-state fibroblast panel
+2	myCAF	myCAF	medium	2	0.559986992937037	Retained for the four-state fibroblast validation panel
+3	myCAF	myCAF	low	0	0.48705581604271	Retained for the four-state fibroblast validation panel
+4	csCAF	csCAF	low	6	-0.193862544580209	Retained for the four-state fibroblast validation panel
+5	myCAF	myCAF	low	1	0.37422046521157	Retained for the four-state fibroblast validation panel
+6	Myocyte	Excluded	low	2	-0.467320778975862	Removed because the dominant projected identity falls outside the four-state fibroblast panel
+7	myCAF	myCAF	low	0	0.339188195574844	Retained for the four-state fibroblast validation panel
+8	myCAF	myCAF	low	1	0.487790231033362	Retained for the four-state fibroblast validation panel
+9	qPSC	PSC	high	11	0.16097358133487	Retained for the four-state fibroblast validation panel
+10	myCAF	myCAF	medium	3	0.547674121947964	Retained for the four-state fibroblast validation panel
+11	iCAF	iCAF	low	3	-0.671966796679472	Retained for the four-state fibroblast validation panel
+12	qPSC	PSC	low	6	-0.570782923890224	Retained for the four-state fibroblast validation panel
+13	myCAF	myCAF	low	1	0.109404530851451	Retained for the four-state fibroblast validation panel
