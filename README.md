@@ -1,5 +1,7 @@
 # M1 Bioinformatics Ion Channel Project
 
+This project was carried out within the Regulation of Ion Channels in Cancer team at the Institut de Biologie Valrose.
+
 Pancreatic ductal adenocarcinoma (PDAC) is a highly desmoplastic cancer in which tumor cells coexist with a dense and heterogeneous stromal compartment. Fibroblast states, extracellular matrix remodeling, and tumor-stroma organization are therefore central to PDAC biology. This project focuses on potassium channel candidates that may help structure stromal activation, quiescent stromal states, and tumor-associated territories across complementary transcriptomic data layers.
 
 ![Final biological overview](Rapport_figures/F7.JPG)
