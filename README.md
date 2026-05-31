@@ -1,8 +1,18 @@
 # M1 Bioinformatics Ion Channel Project
 
-This repository contains the data processing, statistical analyses, and report assets used for a Master 1 internship project on ion channels in pancreatic ductal adenocarcinoma (PDAC), with a stromal-centered focus.
+Pancreatic ductal adenocarcinoma (PDAC) is a highly desmoplastic cancer in which tumor cells coexist with a dense and heterogeneous stromal compartment. Fibroblast states, extracellular matrix remodeling, and tumor-stroma organization are therefore central to PDAC biology. This project focuses on potassium channel candidates that may help structure stromal activation, quiescent stromal states, and tumor-associated territories across complementary transcriptomic data layers.
 
-The main question of the project is whether selected ion channels, especially potassium channels, may be linked to extracellular matrix organization, stromal plasticity, or immune-related programs in PDAC. The report follows a multi-level workflow built around stromal single-cell discovery, external snRNA-seq validation, bulk perturbation analysis, spatial transcriptomics, and a secondary clinical opening based on bulk survival cohorts.
+![Final biological overview](Rapport_figures/F7.JPG)
+
+**Figure overview.** Simplified biological model of the KCN landscape discussed in this project, highlighting the stromal-associated candidates `KCNMA1` and `KCNJ8`, and the tumor-associated counterpoint `KCNN4` in PDAC.
+
+## Biological rationale
+
+The main question of the project is whether selected ion channels, especially potassium channels, may be linked to extracellular matrix organization, stromal plasticity, or immune-related programs in PDAC. The report is centered on three representative genes: `KCNMA1` for an activated stromal pole, `KCNJ8` for a more quiescent or resident-like stromal pole, and `KCNN4` for a tumor epithelial counterpoint.
+
+## Project overview
+
+This repository contains the data processing, statistical analyses, and report assets used for a Master 1 internship project on ion channels in pancreatic ductal adenocarcinoma. The report follows a multi-level workflow built around stromal single-cell discovery, external snRNA-seq validation, bulk perturbation analysis in CAFs, spatial transcriptomics, and a secondary clinical opening based on bulk survival cohorts.
 
 The repository is organized so that each analysis block can be read independently, rerun locally, and connected back to the final report figures.
 
