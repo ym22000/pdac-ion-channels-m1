@@ -15,10 +15,16 @@ code/spatial_pdac_analysis/communication/commot/
 code/spatial_pdac_analysis/communication/hotspot/all_kcns_normal_pancreas/exports_normal_pancreas/exports/
 
 # Local report/admin files kept outside the public repository
-Consignes Redaction Mémoire de Master SV.pdf
+Consignes*.pdf
 PRESENTATION_SCRIPT_TEAM_KCN_PDAC.md
 STAGE_PROJECT_FULL_BIOINFORMATICS_SUMMARY.md
 STAGE_PROJECT_FULL_BIOINFORMATICS_SUMMARY_FR.md
+report_figures/seminar_attendance.jpg
+report_latex/main.pdf
+report_latex/render_tex_to_pdf.py
+code/**/summary.txt
+code/**/metadata_summary.txt
+code/**/README_pipeline_summary.txt
 
 # LaTeX build artifacts
 report_latex/*.aux
