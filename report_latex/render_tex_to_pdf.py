@@ -309,7 +309,7 @@ def build_story(elements):
             img_name = payload.get("image")
             caption = payload.get("caption", "")
             if img_name:
-                img_path = ROOT.parent / "Rapport_figures" / img_name
+                img_path = ROOT.parent / "report_figures" / img_name
                 if img_path.exists():
                     img = Image(str(img_path))
                     max_width = 16 * cm

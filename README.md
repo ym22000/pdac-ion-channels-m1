@@ -4,7 +4,7 @@ This project was carried out within the Regulation of Ion Channels in Cancer tea
 
 Pancreatic ductal adenocarcinoma (PDAC) is a highly desmoplastic cancer in which tumor cells coexist with a dense and heterogeneous stromal compartment. Fibroblast states, extracellular matrix remodeling, and tumor-stroma organization are therefore central to PDAC biology. This project focuses on potassium channel candidates that may help structure stromal activation, quiescent stromal states, and tumor-associated territories across complementary transcriptomic data layers.
 
-![Final biological overview](Rapport_figures/F7.JPG)
+![Final biological overview](report_figures/F7.JPG)
 
 **Figure overview.** Simplified biological model of the KCN landscape discussed in this project, highlighting the stromal-associated candidates `KCNMA1` and `KCNJ8`, and the tumor-associated counterpoint `KCNN4` in PDAC.
 
@@ -26,7 +26,7 @@ The repository is organized so that each analysis block can be read independentl
   Curated RDS objects and other main data resources reused across analyses.
 - `bibliography/`
   Papers and supporting literature used to interpret datasets, methods, and biological context.
-- `Rapport_figures/`
+- `report_figures/`
   Final figure assets used in the written report.
 - `report_latex/`
   LaTeX source of the report and compiled PDF.
@@ -50,12 +50,12 @@ The repository is organized so that each analysis block can be read independentl
 
 ## Report figures: where to find the code, outputs, and tables
 
-The final report figures are stored in `Rapport_figures/`, but each panel comes from one or more analysis folders in `code/`. The guide below is the fastest way to go from a report figure to the corresponding scripts, tables, and reusable outputs.
+The final report figures are stored in `report_figures/`, but each panel comes from one or more analysis folders in `code/`. The guide below is the fastest way to go from a report figure to the corresponding scripts, tables, and reusable outputs.
 
 ### F1. PDAC stromal microenvironment context
 
 - Final report asset:
-  - `Rapport_figures/F1.JPG`
+  - `report_figures/F1.JPG`
 - Report source:
   - `report_latex/main.tex`
 - Supporting biological context:
@@ -126,7 +126,7 @@ Additional USER outputs remain available in:
 Panel guide:
 - `F4A` experimental design:
   - final report assembly:
-    - `Rapport_figures/F4.png`
+    - `report_figures/F4.png`
   - main downstream analysis folder:
     - `code/bulk/BKCA_shBKCA/`
 - `F4B` differential expression volcano:
@@ -198,7 +198,7 @@ Panel guide:
 ### F7. Final schematic summary
 
 - Final report asset:
-  - `Rapport_figures/F7.JPG`
+  - `report_figures/F7.JPG`
 - Report source:
   - `report_latex/main.tex`
 - Upstream supporting analysis:
