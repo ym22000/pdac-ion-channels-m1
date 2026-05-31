@@ -24,7 +24,7 @@ The repository is organized so that each analysis block can be read independentl
   Main analysis scripts, local outputs, and block-specific `README.md` files.
 - `data/`
   Curated RDS objects and other main data resources reused across analyses.
-- `bibliographie/`
+- `bibliography/`
   Papers and supporting literature used to interpret datasets, methods, and biological context.
 - `Rapport_figures/`
   Final figure assets used in the written report.
@@ -59,7 +59,7 @@ The final report figures are stored in `Rapport_figures/`, but each panel comes 
 - Report source:
   - `report_latex/main.tex`
 - Supporting biological context:
-  - `bibliographie/`
+  - `bibliography/`
 
 This is a conceptual figure used to introduce the biological context of PDAC stroma, myCAF/iCAF states, extracellular matrix, and tumor-stroma interactions. It is not generated from a dedicated analysis script.
 
