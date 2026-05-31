@@ -14,6 +14,12 @@ bibliographie/raw/
 code/spatial_pdac_analysis/communication/commot/
 code/spatial_pdac_analysis/communication/hotspot/all_kcns_normal_pancreas/exports_normal_pancreas/exports/
 
+# Local report/admin files kept outside the public repository
+Consignes Redaction Mémoire de Master SV.pdf
+PRESENTATION_SCRIPT_TEAM_KCN_PDAC.md
+STAGE_PROJECT_FULL_BIOINFORMATICS_SUMMARY.md
+STAGE_PROJECT_FULL_BIOINFORMATICS_SUMMARY_FR.md
+
 # LaTeX build artifacts
 report_latex/*.aux
 report_latex/*.log
