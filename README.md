@@ -10,7 +10,7 @@ Pancreatic ductal adenocarcinoma (PDAC) is a highly desmoplastic cancer in which
 
 ## Biological rationale
 
-The main question of the project is whether selected ion channels, especially potassium channels, may be linked to extracellular matrix organization, stromal plasticity, or immune-related programs in PDAC. The report is centered on three representative genes: `KCNMA1` for an activated stromal pole, `KCNJ8` for a more quiescent or resident-like stromal pole, and `KCNN4` for a tumor epithelial counterpoint.
+The main question of the project is whether selected ion channels, especially potassium channels, may be linked to extracellular matrix organization, stromal plasticity, or immune-related programs in PDAC. A broader set of 25 KCN genes was identified across the stromal analyses, but the report is centered mainly on three representative genes: `KCNMA1` for an activated stromal pole, `KCNJ8` for a more quiescent or resident-like stromal pole, and `KCNN4` for a tumor epithelial counterpoint.
 
 ## Project overview
 
@@ -275,3 +275,7 @@ Good project-level entry points are:
 - `code/user_moffitt_validation/README.md`
 - `code/bulk/BKCA_shBKCA/README.md`
 - `report_latex/main.tex`
+
+## Notes
+
+Code development in this project relied on a combination of official documentation, package tutorials, online learning resources including YouTube tutorials, and iterative testing in the local analysis environment. OpenAI Codex GPT-5.4 was also used as an auxiliary coding assistant for selected scripting, cleanup, and documentation tasks, but not for the full analytical work or the biological interpretation of the project.
