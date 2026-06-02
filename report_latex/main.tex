@@ -121,7 +121,7 @@ Pancreatic ductal adenocarcinoma (PDAC) is a highly desmoplastic cancer in which
 \section{Introduction}
 \begin{figure}[H]
 \centering
-\includegraphics[width=1\textwidth]{F1.JPG}
+\makebox[\textwidth][c]{\includegraphics[width=1.05\textwidth]{F1.JPG}}
 \caption{\textbf{Biological context of the PDAC stromal microenvironment.} PDAC epithelial cells are embedded in a dense stromal microenvironment structured by fibroblast heterogeneity, extracellular matrix remodeling, and immune interactions. The scheme shows the myCAF/iCAF framework.}
 \end{figure}
 
@@ -129,7 +129,9 @@ Pancreatic ductal adenocarcinoma (PDAC) is not only a disease of malignant epith
 
 Cancer-associated fibroblasts (CAFs) are now recognized as a heterogeneous population rather than a single cell type. In PDAC, myofibroblastic CAFs (myCAFs) are usually described as matrix-rich and contractile, whereas inflammatory CAFs (iCAFs) are more secretory \citep{ohlund2017,elyada2019}. Recent single-cell studies also support the existence of more quiescent or resident-like stellate states and additional inflammatory or interferon-associated fibroblast programs \citep{hosein2019,oh2023}. In this report, this biological complexity is simplified into a practical contrast between an activated contractile stromal pole and a more quiescent resident-like stromal pole.
 
-Ion channels are relevant in this context because they regulate membrane potential, calcium entry, secretion, cell volume, and mechanical responses. In fibroblasts, these functions can influence contraction, matrix deposition, and communication with neighboring cells. However, ion channels are often expressed at relatively low transcript levels, especially in sparse single-cell or spatial assays, which makes them easy to miss if analysis relies only on absolute expression. This does not mean that they are biologically unimportant. A limited number of ion channels can still produce strong electrophysiological effects on membrane potential and calcium signaling, and these effects can translate into major functional changes \citep{scruggs2020,jiang2019}. In this project, I focused on the potassium channel family because it is the largest ion channel family and because potassium channel biology is a clear area of interest in the host laboratory.
+Previous work from the laboratory supports the idea that ion channels are not only passive markers in PDAC, but can actively participate in tumor/stroma communication. In particular, SK2 was shown to respond to CAF-derived signals and to reinforce signaling pathways associated with invasiveness and metastasis \citep{rapetti2023}.
+
+So ion channels are relevant in this context because they regulate membrane potential, calcium entry, secretion, cell volume, and mechanical responses. In fibroblasts, these functions can influence contraction, matrix deposition, and communication with neighboring cells. However, ion channels are often expressed at relatively low transcript levels, especially in sparse single-cell or spatial assays, which makes them easy to miss if analysis relies only on absolute expression. This does not mean that they are biologically unimportant. A limited number of ion channels can still produce strong electrophysiological effects on membrane potential and calcium signaling, and these effects can translate into major functional changes \citep{scruggs2020,jiang2019}. In this project, I focused on the potassium channel family because it is the largest ion channel family and because potassium channel biology is a clear area of interest in the host laboratory.
 
 The broader project initially identified a union of 25 KCN candidates across the stromal discovery analyses. Because this report is limited in size and number of figures, I focus on three genes that best structure the story. \textit{KCNMA1}, which encodes the pore-forming subunit of the BKCa channel, is used as the main activated stromal candidate. \textit{KCNJ8} is used as a candidate associated with a more quiescent or resident stromal pole. \textit{KCNN4} is used as a tumor epithelial counterpoint that helps distinguish stromal and epithelial territories. This tumor-oriented reading of \textit{KCNN4} is also consistent with PDAC literature, where \textit{KCNN4}-mediated signaling has already been linked to tumor progression \citep{jiang2019}. Other KCN genes remain interesting and will be discussed briefly in the final schematic and perspectives.
 
@@ -161,7 +163,7 @@ So for the tumor/fibroblast contrast, raw counts were aggregated by patient and 
 Also, differential expression analyses were performed across the broader set of major USER cell subsets, but are not detailed here because the tumor/fibroblast contrast is the most directly informative for repositioning stromal KCN candidates.
 
 \subsection{Bulk RNA-seq Analysis of BKCa Silencing in CAFs}
-The third analytical block used a local bulk RNA-seq dataset generated in the host laboratory. In this experiment, BKCa was silenced by short-hairpin RNA in cultured CAFs, creating a \texttt{shBKCa} condition compared with non-targeting controls. In this report, BKCa refers to the large-conductance calcium-activated potassium channel complex centered on the pore-forming \textit{KCNMA1} gene and the associated beta-subunit genes \textit{KCNMB1} and \textit{KCNMB4}. Bulk RNA-seq measures the average transcriptome of each sample rather than individual cells. The comparison included four control samples and four \texttt{shBKCa} samples, and gene-level counts were collapsed into 17,889 genes.
+The third analytical block used a local bulk RNA-seq dataset generated in the host laboratory. In this experiment, BKCa was silenced by short-hairpin RNA in cultured human CAFs, creating a \texttt{shBKCa} condition compared with non-targeting controls. In this report, BKCa refers to the large-conductance calcium-activated potassium channel complex centered on the pore-forming \textit{KCNMA1} gene and the associated beta-subunit genes \textit{KCNMB1} and \textit{KCNMB4}. Bulk RNA-seq measures the average transcriptome of each sample rather than individual cells. The comparison included four control samples and four \texttt{shBKCa} samples, and gene-level counts were collapsed into 17,889 genes.
 
 Principal component analysis (PCA) was used as an internal quality control step on normalized transformed expression values to confirm separation of replicates by condition, although this PCA is not shown here. Differential expression was performed on raw count data with \texttt{DESeq2} \citep{love2014}. Hallmark pathway enrichment was performed with \texttt{fgsea}, using the gene-level log2FC ranking and following the general GSEA framework \citep{subramanian2005,korotkevich2021}. CAF signature heatmaps were built from normalized expression values scaled by gene across samples, corresponding in the legend to a row z-score. At signature level, condition differences were summarized with Wilcoxon rank-sum tests. The myCAF and iCAF signatures were based on published PDAC CAF states, from Ohlund et al. and Elyada et al. \citep{ohlund2017,elyada2019}.
 
@@ -184,7 +186,7 @@ Single-cell and single-nucleus differential results were interpreted together wi
 \subsection{A Stromal KCN Core Was Identified in the Moffitt Dataset}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.94\textwidth]{F2.png}
+\makebox[\textwidth][c]{\includegraphics[width=0.94\textwidth]{F2.png}}
 \caption{\textbf{Stromal single-cell prioritization in the Moffitt dataset.} \textbf{a} UMAP representation of stromal cell subtypes. \textbf{b} Four-test Venn summary showing overlap between complementary differential expression strategies used to prioritize KCN candidates across cell-level and pseudobulk approaches. \textbf{c} Volcano plots from the pseudobulk subtype/rest analysis highlighting KCN behavior across stromal subtypes. \textbf{d} Hallmark GSEA comparison between qPSC and myCAF.}
 \end{figure}
 
@@ -199,7 +201,7 @@ As shown in Fig.~2d, this polarity is not limited to single genes. The myCAF sid
 \subsection{USER Validation Repositioned the Candidates Along a Tumor--Stroma Axis}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.98\textwidth]{F3.png}
+\makebox[\textwidth][c]{\includegraphics[width=1.0\textwidth]{F3.png}}
 \caption{\textbf{External validation in the USER snRNA-seq dataset.} \textbf{a} UMAP of the USER PDAC atlas used to reinsert stromal candidates into a broader tumor microenvironment context. \textbf{b} Cell-type composition across patients, shown to highlight inter-patient variability and to justify patient-aware pseudobulk analyses. \textbf{c} Volcano plot of the pseudobulk Tumor/Fibroblast comparison, used to position the selected KCN candidates along a stromal/tumor axis.}
 \end{figure}
 
@@ -212,7 +214,7 @@ A volcano plot summarizes differential expression by showing effect size on the 
 \subsection{BKCa Knockdown in CAFs Altered Programs Linked to Activated Stroma}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.98\textwidth]{F4.png}
+\makebox[\textwidth][c]{\includegraphics[width=1.05\textwidth]{F4.png}}
 \caption{\textbf{Bulk RNA-seq perturbation analysis in a BKCa-centered CAF model.} \textbf{a} Experimental overview of the control and shBKCa comparison used in the local bulk RNA-seq block. \textbf{b} Volcano plot of differential expression between shBKCa and control samples. \textbf{c} Hallmark GSEA summary used to identify broad transcriptomic programs associated with the perturbation. \textbf{d} Heatmap of selected CAF-related signatures, including myCAF, iCAF, and ifCAF related markers, used to examine whether the perturbation is associated with stromal program shifts.}
 \end{figure}
 
@@ -227,7 +229,7 @@ As shown in Fig.~4d, the CAF heatmap is useful for the stromal interpretation be
 \subsection{Spatial Analyses Distinguished Stromal and Epithelial Territories}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.99\textwidth]{F5.JPG}
+\makebox[\textwidth][c]{\includegraphics[width=1.08\textwidth]{F5.png}}
 \caption{\textbf{Spatial transcriptomic context for the main KCN candidates.} \textbf{a} Overview of the spatial transcriptomic dataset, including section types, spot numbers, and ecotype information used. \textbf{b} Ecotype composition summary from the reference PDAC study. \textbf{c} Representative Hotspot maps for \textit{KCNMA1} and \textit{KCNN4} in selected PDAC sections (T6, T1, and T12), shown together with the neighboring ecotype context.}
 \end{figure}
 
@@ -240,7 +242,7 @@ As shown in Fig.~5c, in T6, T1, and T12, \textit{KCNMA1} is repeatedly detected 
 \subsection{Signature Projection Strengthened the Contrast Between KCNMA1 and KCNN4}
 \begin{figure}[H]
 \centering
-\includegraphics[width=1\textwidth]{F6.JPG}
+\makebox[\textwidth][c]{\includegraphics[width=1.08\textwidth]{F6.png}}
 \caption{\textbf{Spatial projection of tumor epithelial and CAF-related signatures.} \textbf{a} Spot-level Spearman correlation projections comparing \textit{KCNMA1} and \textit{KCNN4} with a manually defined tumor epithelial signature in selected PDAC sections T1 and T8. \textbf{b} Spot-level comparison between \textit{KCNMA1} and the cancer-associated fibroblast score in representative sections T6, T1, and T3.}
 \end{figure}
 
@@ -264,7 +266,7 @@ This is why the workflow was built around convergence rather than single evidenc
 \section{Conclusions and Perspectives}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.92\textwidth]{F7.JPG}
+\makebox[\textwidth][c]{\includegraphics[width=1.05\textwidth]{F7.JPG}}
 \caption{\textbf{Summary of the selected KCN landscape in PDAC.} The scheme summarizes the proposed relationship between PDAC stroma, tumor territories, and the main KCN candidates emphasized in this report, with a (simplified) comparison to non-diseased pancreas. The broader KCN union also suggests a directional organization of additional candidates across the PDAC microenvironment.}
 \end{figure}
 
@@ -325,6 +327,9 @@ Ohlund, D., Handly-Santana, A., Biffi, G., et al. (2017). Distinct populations o
 \bibitem[Hwang et al.(2020)]{peng2020}
 Hwang, W. L., Jagadeesh, K. A., Guo, J. A., et al. (2020). Single-nucleus and spatial transcriptomics of archival pancreatic cancer reveals multi-compartment reprogramming after neoadjuvant treatment. \textit{bioRxiv}. doi:10.1101/2020.08.25.267336.
 
+\bibitem[Rapetti-Mauss et al.(2023)]{rapetti2023}
+Rapetti-Mauss, R., Nigri, J., Berenguier, C., et al. (2023). SK2 channels set a signalling hub bolstering CAF-triggered tumourigenic processes in pancreatic cancer. \textit{Gut}, 72, 722--735.
+
 \bibitem[Scruggs et al.(2020)]{scruggs2020}
 Scruggs, A. M., et al. (2020). The role of KCNMB1 and BK channels in myofibroblast differentiation and pulmonary fibrosis. \textit{American Journal of Respiratory Cell and Molecular Biology}, 62(2), 191--203.
 
@@ -355,7 +360,7 @@ This internship reassured me that I made the right choice in following this path
 \addcontentsline{toc}{section}{Seminar Attendance Sheet}
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.9\textwidth]{seminar_attendance.jpg}
+\makebox[\textwidth][c]{\includegraphics[width=0.9\textwidth]{seminar_attendance.jpg}}
 \end{figure}
 
 \end{document}
